@@ -1,0 +1,129 @@
+DrainHPEffect_:
+	ld hl, wDamage
+	ld a, [H_WHOSETURN]
+	and a
+	ld a, [wPlayerMoveEffect]
+	jr z, .playersTurn
+	ld a, [wEnemyMoveEffect]
+.playersTurn
+	ld b, a
+	ld a, [hli]
+	srl a ; divide damage by 2
+	ld d, a						; store 1/2 of the damage in de
+	ld a, [hl]
+	rr a
+	ld e, a						; store 1/2 of the damage in de
+	or d
+	jr nz, .checkEffect
+; if damage is 0, increase to 1 so that the attacker gains at least 1 HP
+	inc e
+.checkEffect
+	push de
+	ld a, b
+	cp DRAIN_HP_EFFECT2			; check if effect drains 75%
+	jr nz, .getAttackerHP		; if it's not 75%, jump
+	srl d						; calculate damage/4 in de
+	rr e						; calculate damage/4 in de
+	pop hl						; restore 1/2 of the damage in hl
+	ld a, h
+	add d						; add 1/4th damage to the 50% already calculated in hl
+	ld d, a
+	jr nc, .noCarry
+	inc l
+.noCarry
+	ld a, l
+	add e
+	ld e, a
+	push de
+.getAttackerHP
+	ld hl, wBattleMonHP
+	ld de, wBattleMonMaxHP
+	ld a, [H_WHOSETURN]
+	and a
+	jr z, .addDamageToAttackerHP
+	ld hl, wEnemyMonHP
+	ld de, wEnemyMonMaxHP
+.addDamageToAttackerHP
+	ld bc, wHPBarOldHP+1
+; copy current HP to wHPBarOldHP
+	ld a, [hli]
+	ld [bc], a
+	ld a, [hl]
+	dec bc
+	ld [bc], a
+; copy max HP to wHPBarMaxHP
+	ld a, [de]
+	dec bc
+	ld [bc], a
+	inc de
+	ld a, [de]
+	dec bc
+	ld [bc], a
+; add damage to attacker's HP and copy new HP to wHPBarNewHP
+	pop bc					; restore healed amount in bc
+	ld a, c
+	ld c, [hl]
+	add c
+	ld [hld], a
+	ld [wHPBarNewHP], a
+	ld a, b
+	ld b, [hl]
+	adc b
+	ld [hli], a
+	ld [wHPBarNewHP+1], a
+	jr c, .capToMaxHP ; if HP > 65,535, cap to max HP
+; compare HP with max HP
+	ld a, [hld]
+	ld b, a
+	ld a, [de]
+	dec de
+	sub b
+	ld a, [hli]
+	ld b, a
+	ld a, [de]
+	inc de
+	sbc b
+	jr nc, .next
+.capToMaxHP
+	ld a, [de]
+	ld [hld], a
+	ld [wHPBarNewHP], a
+	dec de
+	ld a, [de]
+	ld [hli], a
+	ld [wHPBarNewHP+1], a
+	inc de
+.next
+	ld a, [H_WHOSETURN]
+	and a
+	coord hl, 10, 9
+	ld a, $1
+	jr z, .next2
+	coord hl, 2, 2
+	xor a
+.next2
+	ld [wHPBarType], a
+	predef UpdateHPBar2
+	predef DrawPlayerHUDAndHPBar
+	predef DrawEnemyHUDAndHPBar
+	callab CopyPlayerMonCurHPAndStatusFromBattleToParty
+	ld hl, SuckedHealthText
+	ld a, [H_WHOSETURN]
+	and a
+	ld a, [wPlayerMoveEffect]
+	jr z, .next3
+	ld a, [wEnemyMoveEffect]
+.next3
+	cp DREAM_EATER_EFFECT
+	jr nz, .printText
+	ld hl, DreamWasEatenText
+.printText
+	jp PrintText
+
+SuckedHealthText:
+	TX_FAR _SuckedHealthText
+	db "@"
+
+DreamWasEatenText:
+	TX_FAR _DreamWasEatenText
+	db "@"

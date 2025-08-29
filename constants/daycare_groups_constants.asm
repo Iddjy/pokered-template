@@ -1,0 +1,17 @@
+const_value set 0
+
+	const MONSTER_GROUP
+	const WATER1_GROUP
+	const BUG_GROUP
+	const FLYING_GROUP
+	const FIELD_GROUP
+	const FAIRY_GROUP
+	const GRASS_GROUP
+	const HUMAN_LIKE_GROUP
+	const WATER3_GROUP
+	const MINERAL_GROUP
+	const AMORPHOUS_GROUP
+	const WATER2_GROUP
+	const DITTO_GROUP
+	const DRAGON_GROUP
+	const NO_EGGS_DISCOVERED_GROUP

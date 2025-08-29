@@ -1,0 +1,27 @@
+ZoneMons3:
+	db $1E
+	IF DEF(_RED)
+		dbw 25, NIDORAN_M
+		dbw 26, DODUO
+		dbw 23, VENONAT
+		dbw 24, EXEGGCUTE
+		dbw 33, NIDORINO
+		dbw 26, EXEGGCUTE
+		dbw 25, NIDORAN_F
+		dbw 31, VENOMOTH
+		dbw 26, TAUROS
+		dbw 28, KANGASKHAN
+	ENDC
+	IF DEF(_BLUE)
+		dbw 25, NIDORAN_F
+		dbw 26, DODUO
+		dbw 23, VENONAT
+		dbw 24, EXEGGCUTE
+		dbw 33, NIDORINA
+		dbw 26, EXEGGCUTE
+		dbw 25, NIDORAN_M
+		dbw 31, VENOMOTH
+		dbw 26, TAUROS
+		dbw 28, KANGASKHAN
+	ENDC
+	db $00

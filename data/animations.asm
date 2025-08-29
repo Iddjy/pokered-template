@@ -1,0 +1,3790 @@
+AttackAnimationPointers:
+	dw PoundAnim
+	dw KarateChopAnim
+	dw DoubleSlapAnim
+	dw DrainPunchAnim
+	dw MegaPunchAnim
+	dw BulletPunchAnim
+	dw FirePunchAnim
+	dw IcePunchAnim
+	dw ThunderPunchAnim
+	dw ScratchAnim
+	dw IronTailAnim
+	dw MetalClawAnim
+	dw SwordsDanceAnim
+	dw CutAnim
+	dw GustAnim
+	dw WingAttackAnim
+	dw WhirlwindAnim
+	dw FlyAnim
+	dw SteelWingAnim
+	dw IronHeadAnim
+	dw VenoshockAnim
+	dw StompAnim
+	dw DoubleKickAnim
+	dw MegaKickAnim
+	dw JumpKickAnim
+	dw DisarmVoiceAnim
+	dw SandAttackAnim
+	dw HeadButtAnim
+	dw HornAttackAnim
+	dw FuryAttackAnim
+	dw TrickRoomAnim
+	dw TackleAnim
+	dw BodySlamAnim
+	dw WrapAnim
+	dw TakeDownAnim
+	dw ThrashAnim
+	dw DoubleEdgeAnim
+	dw TailWhipAnim
+	dw PoisonStingAnim
+	dw BindAnim
+	dw PinMissileAnim
+	dw LeerAnim
+	dw BiteAnim
+	dw GrowlAnim
+	dw RoarAnim
+	dw SingAnim
+	dw SupersonicAnim
+	dw IronDefenseAnim
+	dw DisableAnim
+	dw AcidAnim
+	dw EmberAnim
+	dw FlamethrowerAnim
+	dw MistAnim
+	dw WaterGunAnim
+	dw HydroPumpAnim
+	dw SurfAnim
+	dw IceBeamAnim
+	dw BlizzardAnim
+	dw PsyBeamAnim
+	dw ScaldAnim
+	dw AuroraBeamAnim
+	dw HyperBeamAnim
+	dw PeckAnim
+	dw DrillPeckAnim
+	dw CrunchAnim
+	dw LowKickAnim
+	dw CounterAnim
+	dw SeismicTossAnim
+	dw StrengthAnim
+	dw AbsorbAnim
+	dw MegaDrainAnim
+	dw LeechSeedAnim
+	dw GrowthAnim
+	dw RazorLeafAnim
+	dw SolarBeamAnim
+	dw PoisonPowderAnim
+	dw StunSporeAnim
+	dw SleepPowderAnim
+	dw PedalDanceAnim
+	dw RazorWindAnim
+	dw FeintAttackAnim
+	dw FireSpinAnim
+	dw ThunderShockAnim
+	dw ThunderBoltAnim
+	dw ThunderWaveAnim
+	dw ThunderAnim
+	dw RockThrowAnim
+	dw EarthquakeAnim
+	dw NightSlashAnim
+	dw DigAnim
+	dw ToxicAnim
+	dw ConfusionAnim
+	dw PsychicAnim
+	dw HypnosisAnim
+	dw ExtrasensoryAnim
+	dw AgilityAnim
+	dw QuickAttackAnim
+	dw RageAnim
+	dw TeleportAnim
+	dw NightShadeAnim
+	dw MimicAnim
+	dw ScreechAnim
+	dw DoubleTeamAnim
+	dw RecoverAnim
+	dw HardenAnim
+	dw MinimizeAnim
+	dw SmokeScreenAnim
+	dw ConfuseRayAnim
+	dw WithdrawAnim
+	dw DefenseCurlAnim
+	dw MeanLookAnim
+	dw LightScreenAnim
+	dw ExtremeSpeedAnim
+	dw ReflectAnim
+	dw FocusEnergyAnim
+	dw BideAnim
+	dw MetronomeAnim
+	dw MirrorMoveAnim
+	dw SelfdestructAnim
+	dw SnarlAnim
+	dw SynthesisAnim
+	dw FireFangAnim
+	dw SmogAnim
+	dw SludgeAnim
+	dw FissureAnim
+	dw FireBlastAnim
+	dw WaterfallAnim
+	dw ClampAnim
+	dw SwiftAnim
+	dw SkullBashAnim
+	dw HammerArmAnim
+	dw HoneClawsAnim
+	dw AmnesiaAnim
+	dw PlayRoughAnim
+	dw IceFangAnim
+	dw HiJumpKickAnim
+	dw GigaImpactAnim
+	dw DreamEaterAnim
+	dw PoisonGasAnim
+	dw DazzlingleamAnim
+	dw LeechLifeAnim
+	dw ShadowForceAnim
+	dw SkyAttackAnim
+	dw BubbleAnim
+	dw MoonblastAnim
+	dw IcicleCrashAnim
+	dw FlashAnim
+	dw FairyWindAnim
+	dw WoodHammerAnim
+	dw HeavySlamAnim
+	dw DrainingKissAnim
+	dw ExplosionAnim
+	dw FurySwipesAnim
+	dw GuillotineAnim
+	dw RestAnim
+	dw RockSlideAnim
+	dw ForcePalmAnim
+	dw TriAttackAnim
+	dw MagicalLeafAnim
+	dw SlashAnim
+	dw SubstituteAnim
+	dw ScaryFaceAnim
+	dw AquaTailAnim
+	dw SeedBombAnim
+	dw StruggleAnim
+	dw ShowPicAnim
+	dw EnemyFlashAnim
+	dw PlayerFlashAnim
+	dw EnemyHUDShakeAnim
+	dw TradeBallDropAnim
+	dw TradeBallAppear1Anim
+	dw TradeBallAppear2Anim
+	dw TradeBallPoofAnim
+	dw XStatItemAnim
+	dw XStatItemAnim
+	dw ShrinkingSquareAnim
+	dw ShrinkingSquareAnim
+	dw XStatItemBlackAnim
+	dw XStatItemBlackAnim
+	dw ShrinkingSquareBlackAnim
+	dw ShrinkingSquareBlackAnim
+	dw PoisonAnim
+	dw PoisonAnim
+	dw SleepPlayerAnim
+	dw SleepEnemyAnim
+	dw ConfusedPlayerAnim
+	dw ConfusedEnemyAnim
+	dw FaintAnim
+	dw BallTossAnim
+	dw BallShakeAnim
+	dw BallPoofAnim
+	dw BallBlockAnim
+	dw GreatTossAnim
+	dw UltraTossAnim
+	dw ShakeScreenAnim
+	dw HidePicAnim
+	dw ThrowRockAnim
+	dw ThrowBaitAnim
+	dw FlyFirstTurnAnim				; insert this here since that's the corresponding position in move_constants.asm
+	dw PhantomForceFirstTurnAnim
+	dw ShadowForceFirstTurnAnim
+	dw ZigZagScreenAnim
+
+; These are the animation commands
+; There are 2 kinds of commands: subanimations and special effects
+; the first byte of a command indicates which kind of command it is:
+; if it is <= $c0, it is a subanimation command, else it is a special effect command
+; if it is $ff, it marks the end of the current animation
+;
+; [W_SUBANIMCOUNTER] $d087 contains the index of the current frame being played during the
+; subanimation. It is initialized with the total number of frames in the subanimation, and
+; decremented by one after each frame is drawn
+;
+; Subanimation commands format:
+; - Subanimation commands are 3 bytes long
+; - 1st byte: first 2 bits (ie. most significant ie. leftmost) indicate which tileset the subanimation uses
+;	      the rest indicate the frame delay (~ playback speed) of the subanimation
+; - 2nd byte: sound effect ID ($ff means no sound effect)
+; - 3rd byte: subanimation ID
+;
+; Special effects commands format:
+; - Special effects commands are 2 bytes long
+; - 1st byte: special effect ID
+; - 2nd byte: sound effect ID ($ff means no sound effect)
+	
+; each animation is a list of subanimations and special effects
+; if first byte < $56
+;	db tileset_and_delay, sound_id, subanimation_id
+; if first byte >= $D8
+;	db special_effect_id, sound_id
+; $FF terminated
+ZigZagScreenAnim:
+	db SE_WAVY_SCREEN, $FF
+	db $FF
+
+PoundAnim:
+StruggleAnim:
+	db $08,$00,SUBANIM1_0_STAR_TWICE
+	db $FF
+
+KarateChopAnim:
+	db $08,$01,SUBANIM1_0_STAR_DESCENDING
+	db $FF
+
+DoubleSlapAnim:
+	db $05,$02,SUBANIM1_0_STAR_TWICE
+	db $05,$02,SUBANIM1_0_STAR_TWICE
+	db $FF
+
+DrainPunchAnim:
+	db $48,$18,SUBANIM1_1_STAR_BIG
+	db $06,$FF,SUBANIM1_0_CIRCLE_1_SQUARE_TOSS_BACK
+	db $FF
+
+MegaPunchAnim:
+	db $46,$04,SUBANIM1_1_STAR_BIG_MOVING
+	db $FF
+
+BulletPunchAnim:
+	db SE_RESET_SCREEN_PALETTE, $60
+	db $03,$02,SUBANIM1_0_STAR_THRICE
+	db $FF
+
+FirePunchAnim:
+	db $06,$06,SUBANIM1_0_STAR_THRICE
+	db $46,$FF,SUBANIM1_1_FLAMES
+	db $FF
+
+IcePunchAnim:
+	db $06,$07,SUBANIM1_0_STAR_THRICE
+	db $10,$FF,SUBANIM1_0_ICE_RISE
+	db $FF
+
+ThunderPunchAnim:
+	db $06,$08,SUBANIM1_0_STAR_THRICE
+	db SE_DARK_SCREEN_PALETTE, $FF
+	db $46,$FF,SUBANIM1_1_LIGHTNING
+	db SE_RESET_SCREEN_PALETTE, $FF
+	db $FF
+
+ScratchAnim:
+	db $06,$09,SUBANIM1_0_SCRATCHES
+	db $FF
+
+IronTailAnim:
+	db SE_LIGHT_SCREEN_PALETTE, $FF
+	db $46,$05,SUBANIM1_0_CIRCLE_1_SQUARE_CLOSING
+	db SE_RESET_SCREEN_PALETTE, $FF
+	db SE_MOVE_MON_HORIZONTALLY, $FF
+	db SE_RESET_MON_POSITION, $FF
+	db $08,$14,SUBANIM1_0_STAR_THRICE
+	db $FF
+
+MetalClawAnim:
+	db SE_LIGHT_SCREEN_PALETTE, $FF
+	db $46,$05,SUBANIM1_0_CIRCLE_1_SQUARE_CLOSING
+	db SE_RESET_SCREEN_PALETTE, $FF
+	db $08,$09,SUBANIM1_0_SCRATCHES
+	db $FF
+
+SwordsDanceAnim:
+	db $46,$0D,SUBANIM1_1_SWORDS_CIRCLING
+	db $46,$0D,SUBANIM1_1_SWORDS_CIRCLING
+	db $46,$0D,SUBANIM1_1_SWORDS_CIRCLING
+	db $FF
+
+CutAnim:
+	db SE_DARK_SCREEN_FLASH, $0E
+	db $04,$FF,SUBANIM1_0_SLICE
+	db $FF
+
+GustAnim:
+	db $46,$0F,SUBANIM1_1_TORNADO
+	db $06,$FF,SUBANIM1_0_STAR_THRICE
+	db $FF
+
+WingAttackAnim:
+	db $46,$10,SUBANIM1_1_STAR_BIG_MOVING
+	db $FF
+
+WhirlwindAnim:
+	db $46,$11,SUBANIM1_1_TORNADO
+	db SE_SLIDE_ENEMY_MON_OFF, $FF
+	db $FF
+
+FlyAnim:
+	db $46,$12,SUBANIM1_1_STAR_BIG_MOVING
+	db SE_SHOW_MON_PIC, $FF
+	db $FF
+
+SteelWingAnim:
+	db SE_LIGHT_SCREEN_PALETTE, $FF
+	db $46,$05,SUBANIM1_0_CIRCLE_1_SQUARE_CLOSING
+	db SE_RESET_SCREEN_PALETTE, $FF
+	db $48,$10,SUBANIM1_1_STAR_BIG_MOVING
+	db $FF
+
+IronHeadAnim:
+	db SE_LIGHT_SCREEN_PALETTE, $FF
+	db $46,$05,SUBANIM1_0_CIRCLE_1_SQUARE_CLOSING
+	db SE_RESET_SCREEN_PALETTE, $FF
+	db SE_MOVE_MON_HORIZONTALLY, $FF
+	db SE_RESET_MON_POSITION, $FF
+	db $48,$1C,SUBANIM1_1_STAR_BIG
+	db $FF
+
+VenoshockAnim:
+	db $46,$7B,SUBANIM1_0_BLOB_CIRCLING_ENEMY
+	db $46,$7B,SUBANIM1_0_BLOB_CIRCLING_ENEMY
+	db $46,$FF,SUBANIM1_1_BLOB_DRIP_ENEMY
+	db $FF
+
+StompAnim:
+	db $48,$16,SUBANIM1_1_STAR_BIG
+	db $FF
+
+DoubleKickAnim:
+	db $08,$17,SUBANIM1_0_STAR_TWICE
+	db $08,$17,SUBANIM1_0_STAR_TWICE
+	db $FF
+
+MegaKickAnim:
+	db $46,$18,SUBANIM1_1_STAR_BIG_MOVING
+	db $FF
+
+JumpKickAnim:
+	db $46,$19,SUBANIM1_1_STAR_BIG_MOVING
+	db $FF
+
+DisarmVoiceAnim:
+	db $46,$89,SUBANIM1_0_HEART_1_MUSIC
+	db $46,$FF,SUBANIM1_0_HEART_1_MUSIC
+	db $FF
+
+SandAttackAnim:
+	db $46,$1B,SUBANIM1_1_SAND
+	db $FF
+
+HeadButtAnim:
+	db $46,$1C,SUBANIM1_1_STAR_BIG
+	db $FF
+
+HornAttackAnim:
+	db $06,$1D,SUBANIM1_0_HORN_JAB_TWICE
+	db $46,$FF,SUBANIM1_1_STAR_BIG
+	db $FF
+
+FuryAttackAnim:
+	db $02,$1E,SUBANIM1_0_HORN_JAB_THRICE
+	db $02,$FF,SUBANIM1_0_HORN_JAB_THRICE
+	db $FF
+
+TrickRoomAnim:
+	db SE_BLACK_SQUARES_EVERYWHERE, $3B
+	db $FF
+
+TackleAnim:
+	db SE_MOVE_MON_HORIZONTALLY, $48
+	db SE_RESET_MON_POSITION, $FF
+	db $FF
+
+BodySlamAnim:
+	db SE_MOVE_MON_HORIZONTALLY, $48
+	db SE_DARK_SCREEN_FLASH, $FF
+	db SE_DARK_SCREEN_FLASH, $FF
+	db SE_RESET_MON_POSITION, $FF
+	db $FF
+
+WrapAnim:
+	db $04,$22,SUBANIM1_0_BIND
+	db $04,$22,SUBANIM1_0_BIND
+	db $04,$22,SUBANIM1_0_BIND
+	db $FF
+
+TakeDownAnim:
+	db SE_MOVE_MON_HORIZONTALLY, $48
+	db SE_DARK_SCREEN_FLASH, $23
+	db SE_RESET_MON_POSITION, $FF
+	db $FF
+
+ThrashAnim:
+	db $46,$24,SUBANIM1_1_STAR_BIG_MOVING
+	db $FF
+
+DoubleEdgeAnim:
+	db SE_LIGHT_SCREEN_PALETTE, $48
+	db $06,$FF,SUBANIM1_0_CIRCLES_CENTERING
+	db SE_RESET_SCREEN_PALETTE, $FF
+	db SE_MOVE_MON_HORIZONTALLY, $FF
+	db SE_DARK_SCREEN_FLASH, $25
+	db SE_RESET_MON_POSITION, $FF
+	db $FF
+
+TailWhipAnim:
+	db SE_MOVE_MON_HORIZONTALLY, $84
+	db SE_DELAY_ANIMATION_10, $FF
+	db SE_RESET_MON_POSITION, $84
+	db SE_DELAY_ANIMATION_10, $FF
+	db SE_MOVE_MON_HORIZONTALLY, $84
+	db SE_DELAY_ANIMATION_10, $FF
+	db SE_RESET_MON_POSITION, $84
+	db $FF
+
+PoisonStingAnim:
+	db $06,$27,SUBANIM1_0_STAR
+	db $FF
+
+BindAnim:
+	db $04,$13,SUBANIM1_0_BIND
+	db $04,$13,SUBANIM1_0_BIND
+	db $FF
+
+PinMissileAnim:
+	db $03,$29,SUBANIM1_0_STAR_TWICE
+	db $FF
+
+LeerAnim:
+	db SE_DARK_SCREEN_PALETTE, $48
+	db SE_DARK_SCREEN_FLASH, $2A
+	db SE_DARK_SCREEN_FLASH, $2A
+	db SE_RESET_SCREEN_PALETTE, $FF
+	db $FF
+
+BiteAnim:
+	db $08,$2B,SUBANIM1_0_STAR_THRICE
+	db $FF
+
+GrowlAnim:
+	db $46,$2C,SUBANIM1_0_HEART_1_MUSIC
+	db $FF
+
+RoarAnim:
+	db $46,$2D,SUBANIM1_1_SHOUT
+	db $46,$2D,SUBANIM1_1_SHOUT
+	db $46,$2D,SUBANIM1_1_SHOUT
+	db SE_SLIDE_ENEMY_MON_OFF, $FF		; add this to make the target mon go off the screen
+	db $FF
+
+SingAnim:
+	db $46,$2E,SUBANIM1_0_HEART_1_MUSIC
+	db $50,$FF,SUBANIM1_1_MUSIC_CIRCLING_ENEMY
+	db $50,$FF,SUBANIM1_1_MUSIC_CIRCLING_ENEMY
+	db $FF
+
+SupersonicAnim:
+	db $06,$2F,SUBANIM1_0_SOUND_WAVE
+	db $FF
+
+IronDefenseAnim:
+	db SE_LIGHT_SCREEN_PALETTE, $05
+	db $46,$FF,SUBANIM1_0_CIRCLE_1_SQUARE_CLOSING
+	db SE_DARK_SCREEN_FLASH, $FF
+	db SE_RESET_SCREEN_PALETTE, $FF
+	db $FF
+
+DisableAnim:
+	db SE_DARK_SCREEN_PALETTE, $48
+	db SE_DARK_SCREEN_FLASH, $2A
+	db SE_DARK_SCREEN_FLASH, $2A
+	db SE_RESET_SCREEN_PALETTE, $FF
+	db $FF
+
+AcidAnim:
+	db $46,$32,SUBANIM1_1_BLOB_TOSS
+	db $46,$32,SUBANIM1_1_BLOB_DRIP_ENEMY
+	db $FF
+
+EmberAnim:
+	db $46,$33,SUBANIM1_1_FLAMES
+	db $FF
+
+FlamethrowerAnim:
+	db $46,$34,SUBANIM1_1_FLAME_BEAM
+	db $46,$34,SUBANIM1_1_FLAME_COLUMN_1
+	db $46,$34,SUBANIM1_1_FLAME_COLUMN_2
+	db $FF
+
+MistAnim:
+	db SE_LIGHT_SCREEN_PALETTE, $FF
+	db SE_WATER_DROPLETS_EVERYWHERE, $38
+	db SE_RESET_SCREEN_PALETTE, $FF
+	db $FF
+
+WaterGunAnim:
+	db $06,$36,SUBANIM1_0_WATER_DROPLETS
+	db $FF
+
+HydroPumpAnim:
+	db $06,$37,SUBANIM1_0_WATER_COLUMNS
+	db $06,$37,SUBANIM1_0_WATER_COLUMNS
+	db $FF
+
+SurfAnim:
+	db SE_WATER_DROPLETS_EVERYWHERE, $38
+	db $06,$37,SUBANIM1_0_WATER_COLUMNS
+	db $FF
+
+IceBeamAnim:
+	db $03,$39,SUBANIM1_0_BEAM
+	db $10,$FF,SUBANIM1_0_ICE_RISE
+	db $FF
+
+BlizzardAnim:
+	db $04,$3A,SUBANIM1_0_ICE_FALL
+	db $04,$37,SUBANIM1_0_ICE_FALL
+	db $FF
+
+PsyBeamAnim:
+	db $03,$3B,SUBANIM1_0_BEAM
+	db SE_FLASH_SCREEN_LONG, $FF
+	db $FF
+
+ScaldAnim:
+	db $01,$12,SUBANIM1_0_WATER_DROPLETS_BEAM_GOING
+	db $02,$12,SUBANIM1_0_WATER_DROPLETS_BEAM_FULL
+	db $02,$FF,SUBANIM1_0_WATER_DROPLETS_BEAM_FULL
+	db $02,$12,SUBANIM1_0_WATER_DROPLETS_BEAM_FULL
+	db $02,$FF,SUBANIM1_0_WATER_DROPLETS_BEAM_FULL
+	db $02,$12,SUBANIM1_0_WATER_DROPLETS_BEAM_FULL
+	db $02,$FF,SUBANIM1_0_WATER_DROPLETS_BEAM_FULL
+	db $FF
+
+AuroraBeamAnim:
+	db $03,$3D,SUBANIM1_0_BEAM
+	db SE_DELAY_ANIMATION_10, $FF
+	db SE_DELAY_ANIMATION_10, $FF
+	db $FF
+
+HyperBeamAnim:
+	db SE_DARK_SCREEN_PALETTE, $48
+	db SE_SPIRAL_BALLS_INWARD, $FF
+	db $02,$3E,SUBANIM1_0_BEAM
+	db SE_DARK_SCREEN_FLASH, $FF
+	db SE_DARK_SCREEN_FLASH, $FF
+	db $46,$04,SUBANIM1_1_STAR_BIG_MOVING
+	db SE_RESET_SCREEN_PALETTE, $FF
+	db $FF
+
+PeckAnim:
+	db $08,$3F,SUBANIM1_0_STAR_TWICE
+	db $FF
+
+DrillPeckAnim:
+	db $46,$40,SUBANIM1_1_STAR_BIG_MOVING
+	db $FF
+
+CrunchAnim:
+	db $0A,$2B,SUBANIM1_0_STAR_THRICE
+	db $FF
+
+LowKickAnim:
+	db SE_SLIDE_MON_OFF, $42
+	db $46,$FF,SUBANIM1_1_STAR_BIG_MOVING
+	db SE_SHOW_MON_PIC, $FF
+	db $FF
+
+CounterAnim:
+	db SE_SLIDE_MON_OFF, $43
+	db $46,$FF,SUBANIM1_1_STAR_BIG_MOVING
+	db SE_SHOW_MON_PIC, $FF
+	db $FF
+
+SeismicTossAnim:
+	db SE_BLINK_ENEMY_MON, $FF
+	db $41,$8B,SUBANIM1_1_SPHERE_BIG
+	db SE_HIDE_ENEMY_MON_PIC, $FF
+	db SE_SLIDE_MON_OFF, $FF
+	db $42,$44,SUBANIM1_1_SPHERE_BIG_RISE
+	db SE_DELAY_ANIMATION_10, $FF
+	db SE_DELAY_ANIMATION_10, $FF
+	db SE_SHOW_MON_PIC, $FF
+	db $41,$44,SUBANIM1_1_SPHERE_BIG_FALL
+	db SE_SHOW_ENEMY_MON_PIC, $FF
+	db SE_SHAKE_SCREEN, $FF
+	db $FF
+
+StrengthAnim:
+	db SE_MOVE_MON_HORIZONTALLY, $48
+	db SE_RESET_MON_POSITION, $FF
+	db $46,$06,SUBANIM1_1_STAR_BIG_MOVING
+	db $FF
+
+AbsorbAnim:
+	db SE_LIGHT_SCREEN_PALETTE, $46
+	db $06,$FF,SUBANIM1_0_CIRCLES_1_SQUARES_CENTERING_ENEMY
+	db $06,$FF,SUBANIM1_0_CIRCLE_1_SQUARE_TOSS_BACK
+	db SE_RESET_SCREEN_PALETTE, $FF
+	db $FF
+
+MegaDrainAnim:
+	db SE_LIGHT_SCREEN_PALETTE, $47
+	db SE_DARK_SCREEN_FLASH, $FF
+	db $06,$FF,SUBANIM1_0_CIRCLES_1_SQUARES_CENTERING_ENEMY
+	db $06,$FF,SUBANIM1_0_CIRCLE_1_SQUARE_TOSS_BACK
+	db SE_DARK_SCREEN_FLASH, $FF
+	db SE_RESET_SCREEN_PALETTE, $FF
+	db $FF
+
+LeechSeedAnim:
+	db $46,$48,SUBANIM1_1_SEED_TOSS
+	db $55,$4D,SUBANIM1_1_SEED_LAND
+	db $FF
+
+GrowthAnim:
+	db SE_LIGHT_SCREEN_PALETTE, $49
+	db SE_SPIRAL_BALLS_INWARD, $FF
+	db SE_RESET_SCREEN_PALETTE, $FF
+	db $FF
+
+RazorLeafAnim:
+	db SE_LEAVES_FALLING, $4A
+	db $41,$80,SUBANIM1_1_LEAVES_TOSS
+	db $01,$0C,SUBANIM1_0_SLICE
+	db $FF
+
+SolarBeamAnim:
+	db $06,$4B,SUBANIM1_0_BEAM
+	db $06,$FF,SUBANIM1_0_STAR_TWICE
+	db $FF
+
+PoisonPowderAnim:
+	db $06,$4C,SUBANIM1_0_CIRCLES_FALLING
+	db $FF
+
+StunSporeAnim:
+	db $06,$4D,SUBANIM1_0_CIRCLES_FALLING
+	db $FF
+
+SleepPowderAnim:
+	db $06,$4E,SUBANIM1_0_CIRCLES_FALLING
+	db $FF
+
+PedalDanceAnim:
+	db SE_LIGHT_SCREEN_PALETTE, $4F
+	db SE_PETALS_FALLING, $FF
+	db SE_RESET_SCREEN_PALETTE, $FF
+	db $FF
+
+RazorWindAnim:
+	db $04,$0C,SUBANIM1_0_SLICE
+	db $FF
+
+FeintAttackAnim:
+	db SE_DARKEN_MON_PALETTE, $FF
+	db SE_SQUISH_MON_PIC, $61
+	db $08,$FF,SUBANIM1_0_STAR_THRICE
+	db SE_RESET_MON_POSITION, $FF
+	db SE_RESET_SCREEN_PALETTE, $FF
+	db $FF
+
+FireSpinAnim:
+	db $46,$52,SUBANIM1_1_FLAME_COLUMN_1
+	db $46,$FF,SUBANIM1_1_FLAME_COLUMN_2
+	db $46,$FF,SUBANIM1_1_FLAME_COLUMN_3
+	db $FF
+
+ThunderShockAnim:
+	db $42,$53,SUBANIM1_1_LIGHTNING_BALL
+	db $FF
+
+ThunderBoltAnim:
+	db $41,$54,SUBANIM1_1_LIGHTNING_BALL
+	db $41,$54,SUBANIM1_1_LIGHTNING_BALL
+	db $FF
+
+ThunderWaveAnim:
+	db $42,$55,SUBANIM1_1_LIGHTNING_BALL
+	db $02,$FF,SUBANIM1_0_BIND
+	db $04,$FF,SUBANIM1_0_BIND
+	db $FF
+
+ThunderAnim:
+	db SE_DARK_SCREEN_PALETTE, $56
+	db SE_DARK_SCREEN_FLASH, $FF
+	db $46,$FF,SUBANIM1_1_LIGHTNING
+	db SE_DARK_SCREEN_FLASH, $FF
+	db $42,$54,SUBANIM1_1_LIGHTNING_BALL
+	db SE_RESET_SCREEN_PALETTE, $FF
+	db $FF
+
+RockThrowAnim:
+	db $04,$57,SUBANIM1_0_ROCKS_FALL_ENEMY
+	db $FF
+
+EarthquakeAnim:
+	db SE_SHAKE_SCREEN, $58
+	db SE_SHAKE_SCREEN, $58
+	db $FF
+
+NightSlashAnim:
+	db SE_DARKEN_MON_PALETTE, $FF
+	db SE_DELAY_ANIMATION_10, $FF
+	db SE_DARK_SCREEN_PALETTE, $FF
+	db SE_DELAY_ANIMATION_10, $FF
+	db $04,$A2,SUBANIM1_0_SLICE
+	db SE_RESET_SCREEN_PALETTE, $FF
+	db $FF
+
+DigAnim:
+	db $46,$5A,SUBANIM1_1_STAR_BIG_MOVING
+	db SE_SLIDE_MON_UP, $FF
+	db $FF
+
+ToxicAnim:
+	db SE_WATER_DROPLETS_EVERYWHERE, $38
+	db $46,$5B,SUBANIM1_1_BLOB_DRIP_ENEMY
+	db $FF
+
+ConfusionAnim:
+	db SE_FLASH_SCREEN_LONG, $5C
+	db $FF
+
+PsychicAnim:
+	db SE_FLASH_SCREEN_LONG, $5D
+	db SE_WAVY_SCREEN, $FF
+	db $FF
+
+HypnosisAnim:
+	db SE_FLASH_SCREEN_LONG, $5E
+	db $FF
+
+ExtrasensoryAnim:
+	db SE_WAVY_SCREEN, $3B
+	db $FF
+
+AgilityAnim:
+	db SE_LIGHT_SCREEN_PALETTE, $60
+	db SE_RESET_SCREEN_PALETTE, $FF
+	db $FF
+
+QuickAttackAnim:
+	db SE_SLIDE_MON_OFF, $61
+	db $46,$FF,SUBANIM1_1_STAR_BIG_MOVING
+	db SE_SHOW_MON_PIC, $FF
+	db $FF
+
+RageAnim:
+	db $06,$62,SUBANIM1_0_STAR_TWICE
+	db $FF
+
+TeleportAnim:
+FlyFirstTurnAnim:
+	db SE_SQUISH_MON_PIC, $63
+	db SE_SHOOT_BALLS_UPWARD, $FF
+	db $FF
+
+NightShadeAnim:
+	db SE_FLASH_SCREEN_LONG, $5C
+	db SE_WAVY_SCREEN, $FF
+	db $FF
+
+MimicAnim:
+	db $46,$65,SUBANIM1_0_CIRCLES_1_SQUARES_CENTERING_ENEMY
+	db $46,$65,SUBANIM1_0_CIRCLE_1_SQUARE_TOSS_BACK
+	db $FF
+
+ScreechAnim:
+	db $46,$66,SUBANIM1_0_HEART_1_MUSIC
+	db $FF
+
+DoubleTeamAnim:
+	db SE_DARK_SCREEN_PALETTE, $FF
+	db SE_DELAY_ANIMATION_10, $FF
+	db SE_DELAY_ANIMATION_10, $FF
+	db SE_DARK_SCREEN_FLASH, $FF
+	db SE_DARK_SCREEN_FLASH, $FF
+	db SE_RESET_SCREEN_PALETTE, $FF
+	db SE_SHAKE_BACK_AND_FORTH, $67
+	db SE_SHOW_MON_PIC, $FF
+	db $46,$6F,SUBANIM1_1_BARRIER
+	db $FF
+
+RecoverAnim:
+	db SE_BLINK_MON, $68
+	db SE_LIGHT_SCREEN_PALETTE, $FF
+	db SE_SPIRAL_BALLS_INWARD, $FF
+	db SE_RESET_SCREEN_PALETTE, $FF
+	db $FF
+
+HardenAnim:
+	db SE_LIGHT_SCREEN_PALETTE, $69
+	db $46,$FF,SUBANIM1_0_CIRCLE_1_SQUARE_CLOSING
+	db SE_DARK_SCREEN_FLASH, $FF
+	db SE_RESET_SCREEN_PALETTE, $FF
+	db $FF
+
+MinimizeAnim:
+	db SE_LIGHT_SCREEN_PALETTE, $6A
+	db SE_SPIRAL_BALLS_INWARD, $FF
+	db SE_MINIMIZE_MON, $FF
+	db SE_RESET_SCREEN_PALETTE, $FF
+	db $FF
+
+SmokeScreenAnim:
+	db $46,$6B,SUBANIM1_1_SAND
+	db $04,$FF,SUBANIM1_0_BALL_POOF_ENEMY
+	db SE_DARKEN_MON_PALETTE, $FF
+	db SE_DELAY_ANIMATION_10, $FF
+	db SE_DELAY_ANIMATION_10, $FF
+	db SE_DARK_SCREEN_PALETTE, $FF
+	db SE_DELAY_ANIMATION_10, $FF
+	db SE_DELAY_ANIMATION_10, $FF
+	db SE_DELAY_ANIMATION_10, $FF
+	db SE_DELAY_ANIMATION_10, $FF
+	db SE_DELAY_ANIMATION_10, $FF
+	db SE_DELAY_ANIMATION_10, $FF
+	db SE_DARKEN_MON_PALETTE, $FF
+	db SE_DELAY_ANIMATION_10, $FF
+	db SE_RESET_SCREEN_PALETTE, $FF
+	db $FF
+
+ConfuseRayAnim:
+	db SE_DARK_SCREEN_PALETTE, $6C
+	db $46,$FF,SUBANIM1_1_STAR_BIG_TOSS
+	db SE_RESET_SCREEN_PALETTE, $FF
+	db $FF
+
+WithdrawAnim:
+	db SE_LIGHT_SCREEN_PALETTE, $6E
+	db SE_SLIDE_MON_DOWN, $FF
+	db $06,$FF,SUBANIM1_0_SHELL
+	db SE_RESET_SCREEN_PALETTE, $FF
+	db SE_SHOW_MON_PIC, $FF
+	db $FF
+
+DefenseCurlAnim:
+	db SE_LIGHT_SCREEN_PALETTE, $6E
+	db $06,$FF,SUBANIM1_0_CIRCLE_1_SQUARE_CLOSING
+	db SE_DARK_SCREEN_FLASH, $FF
+	db SE_RESET_SCREEN_PALETTE, $FF
+	db $FF
+
+MeanLookAnim:
+	db SE_DARKEN_MON_PALETTE, $6C
+	db SE_DELAY_ANIMATION_10, $FF
+	db SE_DELAY_ANIMATION_10, $FF
+	db SE_DELAY_ANIMATION_10, $FF
+	db SE_DARK_SCREEN_PALETTE, $FF
+	db SE_DELAY_ANIMATION_10, $FF
+	db SE_DELAY_ANIMATION_10, $FF
+	db SE_DELAY_ANIMATION_10, $FF
+	db SE_DARK_SCREEN_FLASH, $88
+	db SE_RESET_SCREEN_PALETTE, $FF
+	db $FF
+
+LightScreenAnim:
+	db SE_LIGHT_SCREEN_PALETTE, $FF
+	db $46,$70,SUBANIM1_1_BARRIER
+	db $46,$70,SUBANIM1_1_BARRIER
+	db SE_RESET_SCREEN_PALETTE, $FF
+	db $FF
+
+ExtremeSpeedAnim:
+	db SE_SLIDE_MON_OFF, $61
+	db SE_DARK_SCREEN_FLASH, $FF
+	db $03,$FF,SUBANIM1_0_SLICE
+	db SE_SHOW_MON_PIC, $FF
+	db $FF
+
+ReflectAnim:
+	db SE_DARK_SCREEN_PALETTE, $FF
+	db $46,$72,SUBANIM1_1_BARRIER
+	db $46,$72,SUBANIM1_1_BARRIER
+	db SE_RESET_SCREEN_PALETTE, $FF
+	db $FF
+
+FocusEnergyAnim:
+	db SE_SPIRAL_BALLS_INWARD, $73
+	db $FF
+
+BideAnim:
+	db $46,$74,SUBANIM1_1_STAR_BIG_MOVING
+	db $FF
+
+MetronomeAnim:
+	db SE_MOVE_MON_HORIZONTALLY, $84
+	db SE_DELAY_ANIMATION_10, $FF
+	db SE_RESET_MON_POSITION, $84
+	db SE_DELAY_ANIMATION_10, $FF
+	db SE_MOVE_MON_HORIZONTALLY, $84
+	db SE_DELAY_ANIMATION_10, $FF
+	db SE_RESET_MON_POSITION, $84
+	db $FF
+
+MirrorMoveAnim:
+	db $08,$76,SUBANIM1_0_STAR_TWICE
+	db $FF
+
+SelfdestructAnim:
+	db $43,$77,SUBANIM1_1_SELFDESTRUCT
+	db $FF
+
+SnarlAnim:
+	db $46,$2D,SUBANIM1_1_SHOUT
+	db $46,$2C,SUBANIM1_0_HEART_1_MUSIC
+	db $FF
+
+SynthesisAnim:
+	db SE_VERY_LIGHT_SCREEN_PALETTE, $49
+	db SE_BLINK_MON, $FF
+	db SE_SPIRAL_BALLS_INWARD, $FF
+	db SE_RESET_SCREEN_PALETTE, $FF
+	db $FF
+
+FireFangAnim:
+	db $08,$2B,SUBANIM1_0_STAR_THRICE
+	db $46,$33,SUBANIM1_1_FLAMES
+	db $FF
+
+SmogAnim:
+	db SE_DARKEN_MON_PALETTE, $48
+	db $46,$7A,SUBANIM1_1_CLOUD_TOSS
+	db SE_RESET_SCREEN_PALETTE, $FF
+	db $FF
+
+SludgeAnim:
+	db $46,$7B,SUBANIM1_1_BLOB_TOSS
+	db $46,$7B,SUBANIM1_1_BLOB_DRIP_ENEMY
+	db $FF
+
+FissureAnim:
+	db SE_DARK_SCREEN_FLASH, $59
+	db SE_SHAKE_SCREEN, $FF
+	db SE_DARK_SCREEN_FLASH, $59
+	db SE_SHAKE_SCREEN, $FF
+	db $FF
+
+FireBlastAnim:
+	db $46,$7D,SUBANIM1_1_FLAME_BEAM
+	db $46,$FF,SUBANIM1_1_FLAME_STAR
+	db $46,$FF,SUBANIM1_1_FLAME_STAR
+	db $46,$FF,SUBANIM1_1_FLAME_COLUMN_1
+	db $46,$FF,SUBANIM1_1_FLAME_COLUMN_2
+	db $FF
+
+WaterfallAnim:
+	db SE_SLIDE_MON_DOWN, $48
+	db $06,$37,SUBANIM1_0_WATER_COLUMNS
+	db $08,$FF,SUBANIM1_0_STAR_THRICE
+	db SE_SLIDE_MON_UP, $FF
+	db $FF
+
+ClampAnim:
+	db $08,$7F,SUBANIM1_0_SLICE_BOTH_SIDES
+	db $06,$83,SUBANIM1_0_BIND
+	db $06,$83,SUBANIM1_0_BIND
+	db $FF
+
+SwiftAnim:
+	db $43,$80,SUBANIM1_1_STARS_SMALL_TOSS
+	db $FF
+
+SkullBashAnim:
+	db $46,$81,SUBANIM1_1_STAR_BIG
+	db $FF
+
+HammerArmAnim:
+	db $44,$03,SUBANIM1_1_STAR_BIG_DESCENDING
+	db SE_DARK_SCREEN_FLASH, $FF
+	db SE_SHAKE_SCREEN, $44
+	db $FF
+
+HoneClawsAnim:
+	db $46,$9E,SUBANIM1_0_CIRCLE_1_SQUARE_CLOSING
+	db SE_DARK_SCREEN_FLASH, $05
+	db $FF
+
+AmnesiaAnim:
+	db $08,$84,SUBANIM1_0_STATUS_CONFUSED
+	db $08,$84,SUBANIM1_0_STATUS_CONFUSED
+	db $FF
+
+PlayRoughAnim:
+	db SE_MOVE_MON_HORIZONTALLY, $84
+	db SE_DELAY_ANIMATION_10, $FF
+	db SE_RESET_MON_POSITION, $84
+	db SE_REVERSE_TURN, $FF
+	db SE_MOVE_MON_HORIZONTALLY, $FF
+	db SE_REVERSE_TURN, $FF
+	db SE_DELAY_ANIMATION_10, $FF
+	db SE_MOVE_MON_HORIZONTALLY, $84
+	db SE_REVERSE_TURN, $FF
+	db SE_RESET_MON_POSITION, $FF
+	db SE_REVERSE_TURN, $FF
+	db SE_DELAY_ANIMATION_10, $FF
+	db SE_RESET_MON_POSITION, $84
+	db SE_REVERSE_TURN, $FF
+	db SE_MOVE_MON_HORIZONTALLY, $FF
+	db SE_REVERSE_TURN, $FF
+	db SE_DELAY_ANIMATION_10, $FF
+	db SE_REVERSE_TURN, $FF
+	db SE_RESET_MON_POSITION, $FF
+	db SE_REVERSE_TURN, $FF
+	db $48,$17,SUBANIM1_1_STAR_BIG
+	db $FF
+
+IceFangAnim:
+	db $08,$2B,SUBANIM1_0_STAR_THRICE
+	db $0A,$FF,SUBANIM1_0_ICE_RISE
+	db $FF
+
+HiJumpKickAnim:
+	db $46,$87,SUBANIM1_1_STAR_BIG_MOVING
+	db $FF
+
+GigaImpactAnim:
+	db SE_SLIDE_MON_HALF_OFF, $8E
+	db SE_DELAY_ANIMATION_10, $FF
+	db SE_DELAY_ANIMATION_10, $FF
+	db SE_DELAY_ANIMATION_10, $FF
+	db SE_DELAY_ANIMATION_10, $FF
+	db SE_RESET_MON_POSITION, $FF
+	db SE_MOVE_MON_HORIZONTALLY, $98
+	db SE_DARK_SCREEN_FLASH, $FF
+	db SE_RESET_MON_POSITION, $FF
+	db $43,$44,SUBANIM1_0_BALL_POOF_ENEMY
+	db SE_SHAKE_SCREEN, $FF
+	db $FF
+
+DreamEaterAnim:
+	db SE_FLASH_SCREEN_LONG, $89
+	db SE_DARK_SCREEN_PALETTE, $89
+	db $08,$89,SUBANIM1_0_STAR_THRICE
+	db SE_RESET_SCREEN_PALETTE, $FF
+	db $FF
+
+PoisonGasAnim:
+	db $46,$8A,SUBANIM1_1_CLOUD_TOSS
+	db $FF
+
+DazzlingleamAnim:
+	db SE_LIGHT_SCREEN_PALETTE, $FF
+	db SE_DELAY_ANIMATION_10, $FF
+	db SE_VERY_LIGHT_SCREEN_PALETTE, $05
+	db SE_DELAY_ANIMATION_10, $FF
+	db SE_LIGHT_SCREEN_PALETTE, $FF
+	db SE_DELAY_ANIMATION_10, $FF
+	db SE_VERY_LIGHT_SCREEN_PALETTE, $05
+	db SE_DELAY_ANIMATION_10, $FF
+	db SE_LIGHT_SCREEN_PALETTE, $FF
+	db SE_DELAY_ANIMATION_10, $FF
+	db SE_VERY_LIGHT_SCREEN_PALETTE, $05
+	db SE_DELAY_ANIMATION_10, $FF
+	db SE_RESET_SCREEN_PALETTE, $FF
+	db $FF
+
+LeechLifeAnim:
+	db $08,$8C,SUBANIM1_0_STAR_THRICE
+	db SE_DARK_SCREEN_FLASH, $FF
+	db $06,$FF,SUBANIM1_0_CIRCLES_1_SQUARES_CENTERING_ENEMY
+	db $06,$FF,SUBANIM1_0_CIRCLE_1_SQUARE_TOSS_BACK
+	db SE_DARK_SCREEN_FLASH, $FF
+	db $FF
+
+ShadowForceAnim:
+	db SE_DARK_SCREEN_PALETTE, $FF
+	db SE_DELAY_ANIMATION_10, $FF
+	db SE_DELAY_ANIMATION_10, $FF
+	db SE_DELAY_ANIMATION_10, $FF
+	db $43,$44,SUBANIM1_0_BALL_POOF_ENEMY
+	db SE_SHOW_MON_PIC, $FF
+	db SE_RESET_SCREEN_PALETTE, $FF
+	db $FF
+
+SkyAttackAnim:
+	db SE_SQUISH_MON_PIC, $8E
+	db SE_SHOOT_BALLS_UPWARD, $FF
+	db $46,$87,SUBANIM1_1_STAR_BIG_MOVING
+	db SE_SHOW_MON_PIC, $FF
+	db $FF
+
+BubbleAnim:
+	db $16,$90,SUBANIM1_0_WATER_BUBBLES
+	db $FF
+
+MoonblastAnim:
+	db SE_LIGHT_SCREEN_PALETTE, $A6
+	db SE_SHOOT_MANY_BALLS_UPWARD, $FF
+	db $05,$06,SUBANIM1_0_CIRCLE_TOSS_STRAIGHT
+	db SE_RESET_SCREEN_PALETTE, $FF
+	db $FF
+
+IcicleCrashAnim:
+	db $03,$41,SUBANIM1_0_STALACTITE_FALL
+	db $FF
+
+FlashAnim:
+	db SE_LIGHT_SCREEN_PALETTE, $48
+	db SE_DARK_SCREEN_FLASH, $88
+	db SE_DARK_SCREEN_FLASH, $FF
+	db SE_RESET_SCREEN_PALETTE, $FF
+	db $FF
+
+FairyWindAnim:
+	db SE_LIGHT_SCREEN_PALETTE, $A5
+	db $46,$0F,SUBANIM1_1_TORNADO
+	db $45,$FF,SUBANIM1_1_STAR_BIG_MOVING
+	db SE_RESET_SCREEN_PALETTE, $FF
+	db $FF
+
+WoodHammerAnim:
+	db $43,$1C,SUBANIM1_0_WOODEN_LOG_DROP
+	db SE_DARK_SCREEN_FLASH, $FF
+	db $43,$57,SUBANIM1_0_BALL_POOF_ENEMY
+	db $FF
+
+HeavySlamAnim:
+	db SE_HIDE_MON_PIC, $FF
+	db SE_REVERSE_TURN, $FF
+	db $42,$18,SUBANIM1_1_SPHERE_BIG_RISE
+	db SE_REVERSE_TURN, $FF
+	db $42,$60,SUBANIM1_1_SPHERE_BIG_FALL
+	db SE_SHOW_MON_PIC, $FF
+	db $43,$56,SUBANIM1_0_BALL_POOF_ENEMY
+	db SE_DARK_SCREEN_FLASH, $FF
+	db SE_SHAKE_SCREEN, $FF
+	db $FF
+
+ExplosionAnim:
+	db $43,$98,SUBANIM1_1_SELFDESTRUCT
+	db $FF
+
+FurySwipesAnim:
+	db $04,$99,SUBANIM1_0_SCRATCHES
+	db $FF
+
+GuillotineAnim:
+	db $06,$0B,SUBANIM1_0_SLICE_BOTH_SIDES
+	db $FF
+
+RestAnim:
+	db $10,$9B,SUBANIM1_0_STATUS_SLEEP
+	db $10,$9B,SUBANIM1_0_STATUS_SLEEP
+	db $FF
+
+RockSlideAnim:
+	db $01,$57,SUBANIM1_0_ROCKS_FALL_ENEMY
+	db $01,$57,SUBANIM1_0_ROCKS_FALL_ENEMY
+	db $01,$57,SUBANIM1_0_ROCKS_FALL_ENEMY
+	db $FF
+
+DrainingKissAnim:
+	db SE_LIGHT_SCREEN_PALETTE, $FF
+	db $03,$8D,SUBANIM1_0_HEART_1_MUSIC
+	db $04,$46,SUBANIM1_0_CIRCLE_1_SQUARE_TOSS_BACK
+	db SE_RESET_SCREEN_PALETTE, $FF
+	db $FF
+
+ForcePalmAnim:
+	db SE_MOVE_MON_HORIZONTALLY, $12
+	db SE_RESET_MON_POSITION, $FF
+	db $44,$FF,SUBANIM1_1_STAR_BIG_MOVING
+	db $FF
+
+TriAttackAnim:
+	db SE_DARK_SCREEN_FLASH, $A0
+	db $46,$FF,SUBANIM1_1_TRIANGLE_TOSS
+	db SE_DARK_SCREEN_FLASH, $FF
+	db $FF
+
+MagicalLeafAnim:
+	db SE_LEAVES_FALLING, $4A
+	db $43,$6F,SUBANIM1_1_LEAF_FLOAT
+	db $FF
+
+SlashAnim:
+	db $06,$A2,SUBANIM1_0_SCRATCHES
+	db $FF
+
+SubstituteAnim:
+	db SE_SLIDE_MON_OFF, $A3
+	db $08,$FF,SUBANIM1_0_BALL_POOF
+	db SE_SUBSTITUTE_MON, $FF
+	db $FF
+
+ScaryFaceAnim:
+	db SE_DARK_SCREEN_FLASH, $88
+	db SE_FLASH_SCREEN_LONG, $88
+	db $FF
+
+AquaTailAnim:
+	db SE_SLIDE_MON_DOWN, $A2
+	db SE_SLIDE_MON_UP, $ff
+	db $04,$37,SUBANIM1_0_WATER_COLUMNS
+	db $44,$FF,SUBANIM1_1_STAR_BIG_MOVING
+	db $FF
+
+SeedBombAnim:
+	db $44,$60,SUBANIM1_1_SEED_TOSS
+	db SE_DARK_SCREEN_FLASH, $FF
+	db $44,$78,SUBANIM1_1_EXPLOSION_SMALL_ENEMY
+	db $FF
+
+BallTossAnim:
+	db $03,$FF,SUBANIM1_0_BALL_TOSS_HIGH
+	db $FF
+
+GreatTossAnim:
+	db $03,$FF,SUBANIM1_0_BALL_TOSS_MIDDLE
+	db $FF
+
+UltraTossAnim:
+	db $02,$FF,SUBANIM1_0_BALL_TOSS_LOW
+	db $FF
+
+BallShakeAnim:
+	db $04,$FF,SUBANIM1_0_BALL_SHAKE_ENEMY
+	db $FF
+
+BallPoofAnim:
+	db $04,$FF,SUBANIM1_0_BALL_POOF_ENEMY
+	db $FF
+
+ShowPicAnim:
+	db SE_SHOW_ENEMY_MON_PIC, $FF
+	db $FF
+
+HidePicAnim:
+	db SE_HIDE_ENEMY_MON_PIC, $FF
+	db $FF
+
+EnemyFlashAnim:
+	db SE_SHOW_MON_PIC, $FF
+	db $FF
+
+PlayerFlashAnim:
+	db SE_FLASH_MON_PIC, $FF
+	db $FF
+
+EnemyHUDShakeAnim:
+	db SE_SHAKE_ENEMY_HUD, $FF
+	db $FF
+
+TradeBallDropAnim:
+	db $86,$FF,SUBANIM1_2_TRADE_BALL_DROP
+	db $FF
+
+TradeBallAppear1Anim:
+	db $84,$FF,SUBANIM1_2_TRADE_BALL_SHAKE
+	db $FF
+
+TradeBallAppear2Anim:
+	db $86,$FF,SUBANIM1_2_TRADE_BALL_APPEAR
+	db $FF
+
+TradeBallPoofAnim:
+	db $86,$FF,SUBANIM1_2_TRADE_BALL_POOF
+	db $FF
+
+XStatItemAnim:
+	db SE_LIGHT_SCREEN_PALETTE, $FF
+	db SE_SPIRAL_BALLS_INWARD, $FF
+	db SE_RESET_SCREEN_PALETTE, $FF
+	db $FF
+
+ShrinkingSquareAnim:
+	db SE_LIGHT_SCREEN_PALETTE, $FF
+	db $46,$FF,SUBANIM1_0_CIRCLE_1_SQUARE_CLOSING
+	db SE_RESET_SCREEN_PALETTE, $FF
+	db $FF
+
+XStatItemBlackAnim:
+	db SE_DARKEN_MON_PALETTE, $FF
+	db SE_SPIRAL_BALLS_INWARD, $FF
+	db SE_RESET_SCREEN_PALETTE, $FF
+	db $FF
+
+ShrinkingSquareBlackAnim:
+	db SE_DARKEN_MON_PALETTE, $FF
+	db $46,$FF,SUBANIM1_0_CIRCLE_1_SQUARE_CLOSING
+	db SE_RESET_SCREEN_PALETTE, $FF
+	db $FF
+
+PoisonAnim:
+	db $08,$13,SUBANIM1_0_STATUS_POISONED
+	db $08,$13,SUBANIM1_0_STATUS_POISONED
+	db $FF
+
+SleepPlayerAnim:
+	db $10,$9B,SUBANIM1_0_STATUS_SLEEP
+	db $10,$9B,SUBANIM1_0_STATUS_SLEEP
+	db $FF
+
+SleepEnemyAnim:
+	db $10,$9B,SUBANIM1_0_STATUS_SLEEP_ENEMY
+	db $10,$9B,SUBANIM1_0_STATUS_SLEEP_ENEMY
+	db $FF
+
+ConfusedPlayerAnim:
+	db $08,$84,SUBANIM1_0_STATUS_CONFUSED
+	db $08,$84,SUBANIM1_0_STATUS_CONFUSED
+	db $FF
+
+ConfusedEnemyAnim:
+	db $08,$84,SUBANIM1_0_STATUS_CONFUSED_ENEMY
+	db $08,$84,SUBANIM1_0_STATUS_CONFUSED_ENEMY
+	db $FF
+
+BallBlockAnim:
+	db $03,$FF,SUBANIM1_0_BALL_BLOCK
+	db $FF
+
+FaintAnim:
+	db SE_SLIDE_MON_DOWN, $5A
+	db $FF
+
+ShakeScreenAnim:
+	db SE_SHAKE_SCREEN, $FF
+	db $FF
+
+ThrowRockAnim:
+	db $03,$8B,SUBANIM1_0_SAFARI_ROCK
+	db $FF
+
+ThrowBaitAnim:
+	db $03,$8B,SUBANIM1_0_SAFARI_BAIT
+	db $FF
+
+PhantomForceFirstTurnAnim:
+	db SE_DARK_SCREEN_PALETTE, $FF
+	db SE_SLIDE_MON_DOWN, $4F
+	db SE_DELAY_ANIMATION_10, $FF
+	db SE_DELAY_ANIMATION_10, $FF
+	db SE_DELAY_ANIMATION_10, $FF
+	db SE_RESET_SCREEN_PALETTE, $FF
+	db $FF
+
+ShadowForceFirstTurnAnim:
+	db SE_DARK_SCREEN_PALETTE, $FF
+	db SE_BLINK_MON, $96
+	db SE_HIDE_MON_PIC, $FF
+	db SE_DELAY_ANIMATION_10, $FF
+	db SE_RESET_SCREEN_PALETTE, $FF
+	db $FF
+
+SubanimationPointers:
+	dw Subanim1_0Star
+	dw Subanim1_0StarTwice
+	dw Subanim1_0StarThrice
+	dw Subanim1_0StarDescending
+	dw Subanim1_1StarBigMoving
+	dw Subanim1_1StarBig
+	dw Subanim1_0BallTossHigh
+	dw Subanim1_0BallTossMiddle
+	dw Subanim1_0BallTossLow
+	dw Subanim1_0BallShakeEnemy
+	dw Subanim1_0BallPoofEnemy
+	dw Subanim1_0BallBlock
+	dw Subanim1_1FlameColumn1
+	dw Subanim1_1FlameColumn2
+	dw Subanim1_1FlameColumn3
+	dw Subanim1_0Scratches
+	dw Subanim1_1Tornado
+	dw Subanim1_1Flames
+	dw Subanim1_0Heart_1Music
+	dw Subanim1_1BlobToss
+	dw Subanim1_1BlobDripEnemy
+	dw Subanim1_1Shout
+	dw Subanim1_0Slice
+	dw Subanim1_0BlobCirclingEnemy
+	dw Subanim1_1SwordsCircling
+	dw Subanim1_1CloudToss
+	dw Subanim1_0WaterColumns
+	dw Subanim1_1SeedToss
+	dw Subanim1_1SeedLand
+	dw Subanim1_1FlameBeam
+	dw Subanim1_1FlameStar
+	dw Subanim1_0Circles_1Squares_CenteringEnemy
+	dw Subanim1_0Circle_1Square_TossBack
+	dw Subanim1_0Bind
+	dw Subanim1_0StatusParalyzed
+	dw Subanim1_0StatusConfused
+	dw Subanim1_0StatusConfusedEnemy
+	dw Subanim1_0StatusPoisoned
+	dw Subanim1_1Sand
+	dw Subanim1_1LightningBall
+	dw Subanim1_0SliceBothSides
+	dw Subanim1_1Lightning
+	dw Subanim1_0WaterDroplets
+	dw Subanim1_0CirclesCentering
+	dw Subanim1_0Beam
+	dw Subanim1_0IceRise
+	dw Subanim1_0RocksFallEnemy
+	dw Subanim1_0SoundWave
+	dw Subanim1_1Barrier
+	dw Subanim1_1Selfdestruct
+	dw Subanim1_0WaterBubbles
+	dw Subanim1_0CirclesFalling
+	dw Subanim1_0IceFall
+	dw Subanim1_0StatusSleep
+	dw Subanim1_0StatusSleepEnemy
+	dw Subanim1_1StarBigToss
+	dw Subanim1_1StarsSmallToss
+	dw Subanim1_1MusicCirclingEnemy
+	dw Subanim1_1ExplosionSmallEnemy
+	dw Subanim1_0Circle_1Square_Closing
+	dw Subanim1_1LeavesToss
+	dw Subanim1_0HornJabTwice
+	dw Subanim1_0HornJabThrice
+	dw Subanim1_0BallPoof
+	dw Subanim1_2TradeBallDrop
+	dw Subanim1_2TradeBallShake
+	dw Subanim1_2TradeBallAppear
+	dw Subanim1_2TradeBallPoof
+	dw Subanim1_0EggShaking
+	dw Subanim1_1TriangleToss
+	dw Subanim1_1SphereBig
+	dw Subanim1_1SphereBigRise
+	dw Subanim1_1SphereBigFall
+	dw Subanim1_0Shell
+	dw Subanim1_0SafariRock
+	dw Subanim1_0SafariBait
+	dw Subanim1_0CircleTossStraight
+	dw Subanim1_1StarBigDescending
+	dw Subanim1_0StalactiteFall
+	dw Subanim1_0WoodenLogToss
+	dw Subanim1_1LeafFloat
+	dw Subanim1_0WaterDropletsBeamGoing
+	dw Subanim1_0WaterDropletsBeamFull
+
+; Subanimation format:
+; - first byte: subanimation counter ie. number of frames this subanimation lasts
+;		This indicates the number of bytes left to read for this subanimation
+;		A logical AND is applied between this value and $1f (00011111) to get
+;		the real number of frames, so for example a value of $41 means 1, $4c means 12
+; - next bytes: frames, each frame is 3 bytes long
+
+; Frame format:
+; - first byte: block ID
+; - second byte: base coordinates ID
+; - third byte: mode
+
+Subanim1_1StarBigMoving:
+	db $43
+	db $02,FRAMEBLOCKCOORDS1_Y30_X68,$00
+	db $02,FRAMEBLOCKCOORDS1_Y20_X78,$00
+	db $02,FRAMEBLOCKCOORDS1_Y10_X80,$00
+
+Subanim1_1StarBig:
+	db $41
+	db $02,FRAMEBLOCKCOORDS1_Y20_X78,$00
+
+Subanim1_0BallTossLow:
+	db $0b
+	db $03,FRAMEBLOCKCOORDS1_Y58_X28,$00
+	db $03,FRAMEBLOCKCOORDS1_Y50_X30,$00
+	db $03,FRAMEBLOCKCOORDS1_Y48_X38,$00
+	db $03,FRAMEBLOCKCOORDS1_Y40_X40,$00
+	db $03,FRAMEBLOCKCOORDS1_Y38_X48,$00
+	db $03,FRAMEBLOCKCOORDS1_Y34_X50,$00
+	db $03,FRAMEBLOCKCOORDS1_Y30_X58,$00
+	db $03,FRAMEBLOCKCOORDS1_Y2F_X60,$00
+	db $03,FRAMEBLOCKCOORDS1_Y30_X68,$00
+	db $03,FRAMEBLOCKCOORDS1_Y31_X70,$00
+	db $03,FRAMEBLOCKCOORDS1_Y32_X78,$00
+
+Subanim1_0BallTossMiddle:
+	db $0b
+	db $03,FRAMEBLOCKCOORDS1_Y58_X28,$00
+	db $03,FRAMEBLOCKCOORDS1_Y4C_X30,$00
+	db $03,FRAMEBLOCKCOORDS1_Y43_X38,$00
+	db $03,FRAMEBLOCKCOORDS1_Y3B_X40,$00
+	db $03,FRAMEBLOCKCOORDS1_Y33_X48,$00
+	db $03,FRAMEBLOCKCOORDS1_Y2D_X50,$00
+	db $03,FRAMEBLOCKCOORDS1_Y28_X58,$00
+	db $03,FRAMEBLOCKCOORDS1_Y26_X60,$00
+	db $03,FRAMEBLOCKCOORDS1_Y28_X68,$00
+	db $03,FRAMEBLOCKCOORDS1_Y2D_X70,$00
+	db $03,FRAMEBLOCKCOORDS1_Y32_X78,$00
+
+Subanim1_0BallTossHigh:
+	db $0b
+	db $03,FRAMEBLOCKCOORDS1_Y58_X28,$00
+	db $03,FRAMEBLOCKCOORDS1_Y4C_X30,$00
+	db $03,FRAMEBLOCKCOORDS1_Y40_X38,$00
+	db $03,FRAMEBLOCKCOORDS1_Y38_X40,$00
+	db $03,FRAMEBLOCKCOORDS1_Y30_X48,$00
+	db $03,FRAMEBLOCKCOORDS1_Y28_X50,$00
+	db $03,FRAMEBLOCKCOORDS1_Y20_X58,$00
+	db $03,FRAMEBLOCKCOORDS1_Y1E_X60,$00
+	db $03,FRAMEBLOCKCOORDS1_Y20_X68,$00
+	db $03,FRAMEBLOCKCOORDS1_Y29_X70,$00
+	db $03,FRAMEBLOCKCOORDS1_Y32_X78,$00
+
+Subanim1_0BallShakeEnemy:
+	db $04
+	db $03,FRAMEBLOCKCOORDS1_Y38_X78,$04
+	db $04,FRAMEBLOCKCOORDS1_Y38_X78,$04
+	db $03,FRAMEBLOCKCOORDS1_Y38_X78,$04
+	db $05,FRAMEBLOCKCOORDS1_Y38_X78,$04
+
+Subanim1_0BallPoofEnemy:
+	db $46
+	db $06,FRAMEBLOCKCOORDS1_Y30_X70,$00
+	db $07,FRAMEBLOCKCOORDS1_Y30_X70,$00
+	db $08,FRAMEBLOCKCOORDS1_Y2C_X6C,$00
+	db $09,FRAMEBLOCKCOORDS1_Y2C_X6C,$00
+	db $0a,FRAMEBLOCKCOORDS1_Y28_X68,$00
+	db $0a,FRAMEBLOCKCOORDS1_Y28_X68,$00
+
+Subanim1_0BallBlock:
+	db $04
+	db $01,FRAMEBLOCKCOORDS1_Y28_X60,$00
+	db $03,FRAMEBLOCKCOORDS1_Y40_X60,$00
+	db $03,FRAMEBLOCKCOORDS1_Y58_X58,$00
+	db $03,FRAMEBLOCKCOORDS1_Y40_X50,$00
+
+Subanim1_1Flames:
+	db $4c
+	db $0b,FRAMEBLOCKCOORDS1_Y40_X78,$00
+	db $0c,FRAMEBLOCKCOORDS1_Y40_X78,$00
+	db $0b,FRAMEBLOCKCOORDS1_Y40_X78,$00
+	db $0c,FRAMEBLOCKCOORDS1_Y40_X78,$00
+	db $0b,FRAMEBLOCKCOORDS1_Y40_X88,$00
+	db $0c,FRAMEBLOCKCOORDS1_Y40_X88,$00
+	db $0b,FRAMEBLOCKCOORDS1_Y40_X88,$00
+	db $0c,FRAMEBLOCKCOORDS1_Y40_X88,$00
+	db $0b,FRAMEBLOCKCOORDS1_Y40_X80,$00
+	db $0c,FRAMEBLOCKCOORDS1_Y40_X80,$00
+	db $0b,FRAMEBLOCKCOORDS1_Y40_X80,$00
+	db $0c,FRAMEBLOCKCOORDS1_Y40_X80,$00
+
+Subanim1_1Lightning:
+	db $4b
+	db $0d,FRAMEBLOCKCOORDS1_Y10_X80,$03
+	db $0e,FRAMEBLOCKCOORDS1_Y10_X80,$03
+	db $0f,FRAMEBLOCKCOORDS1_Y10_X80,$00
+	db $0d,FRAMEBLOCKCOORDS1_Y20_X80,$00
+	db $0d,FRAMEBLOCKCOORDS1_Y20_X80,$00
+	db $0d,FRAMEBLOCKCOORDS1_Y34_X80,$00
+	db $0d,FRAMEBLOCKCOORDS1_Y34_X80,$00
+	db $10,FRAMEBLOCKCOORDS1_Y38_X78,$00
+	db $10,FRAMEBLOCKCOORDS1_Y38_X78,$00
+	db $11,FRAMEBLOCKCOORDS1_Y30_X70,$00
+	db $11,FRAMEBLOCKCOORDS1_Y30_X70,$00
+
+Subanim1_0WaterDroplets:
+	db $4c
+	db $12,FRAMEBLOCKCOORDS1_Y10_X70,$00
+	db $12,FRAMEBLOCKCOORDS1_Y20_X70,$00
+	db $12,FRAMEBLOCKCOORDS1_Y30_X70,$00
+	db $12,FRAMEBLOCKCOORDS1_Y40_X70,$00
+	db $13,FRAMEBLOCKCOORDS1_Y48_X70,$00
+	db $13,FRAMEBLOCKCOORDS1_Y48_X70,$02
+	db $14,FRAMEBLOCKCOORDS1_Y48_X70,$00
+	db $14,FRAMEBLOCKCOORDS1_Y48_X70,$02
+	db $15,FRAMEBLOCKCOORDS1_Y48_X70,$00
+	db $15,FRAMEBLOCKCOORDS1_Y48_X70,$00
+	db $16,FRAMEBLOCKCOORDS1_Y48_X70,$00
+	db $16,FRAMEBLOCKCOORDS1_Y48_X70,$00
+
+Subanim1_0Heart_1Music:
+	db $69
+	db $17,FRAMEBLOCKCOORDS1_Y58_X28,$00
+	db $17,FRAMEBLOCKCOORDS1_Y42_X36,$00
+	db $17,FRAMEBLOCKCOORDS1_Y38_X44,$00
+	db $17,FRAMEBLOCKCOORDS1_Y40_X52,$00
+	db $17,FRAMEBLOCKCOORDS1_Y48_X60,$00
+	db $17,FRAMEBLOCKCOORDS1_Y3E_X6E,$00
+	db $17,FRAMEBLOCKCOORDS1_Y28_X7C,$00
+	db $17,FRAMEBLOCKCOORDS1_Y28_X8A,$00
+	db $17,FRAMEBLOCKCOORDS1_Y30_X98,$00
+
+Subanim1_0Star:
+	db $41
+	db $01,FRAMEBLOCKCOORDS1_Y28_X78,$00
+
+Subanim1_0StarTwice:
+	db $42
+	db $01,FRAMEBLOCKCOORDS1_Y20_X70,$00
+	db $01,FRAMEBLOCKCOORDS1_Y30_X80,$00
+
+Subanim1_0StarThrice:
+	db $43
+	db $01,FRAMEBLOCKCOORDS1_Y20_X88,$00
+	db $01,FRAMEBLOCKCOORDS1_Y28_X68,$00
+	db $01,FRAMEBLOCKCOORDS1_Y30_X78,$00
+
+Subanim1_0StarDescending:
+	db $44
+	db $01,FRAMEBLOCKCOORDS1_Y18_X80,$00
+	db $01,FRAMEBLOCKCOORDS1_Y20_X80,$00
+	db $01,FRAMEBLOCKCOORDS1_Y28_X80,$00
+	db $01,FRAMEBLOCKCOORDS1_Y30_X80,$00
+
+Subanim1_1FlameColumn1:
+	db $43
+	db $0c,FRAMEBLOCKCOORDS1_Y38_X68,$00
+	db $0c,FRAMEBLOCKCOORDS1_Y38_X78,$00
+	db $0c,FRAMEBLOCKCOORDS1_Y38_X88,$00
+
+Subanim1_1FlameColumn2:
+	db $46
+	db $0c,FRAMEBLOCKCOORDS1_Y38_X68,$02
+	db $0c,FRAMEBLOCKCOORDS1_Y28_X68,$00
+	db $0c,FRAMEBLOCKCOORDS1_Y38_X78,$02
+	db $0c,FRAMEBLOCKCOORDS1_Y28_X78,$00
+	db $0c,FRAMEBLOCKCOORDS1_Y38_X88,$02
+	db $0c,FRAMEBLOCKCOORDS1_Y28_X88,$00
+
+Subanim1_1FlameColumn3:
+	db $49
+	db $0c,FRAMEBLOCKCOORDS1_Y38_X68,$02
+	db $0c,FRAMEBLOCKCOORDS1_Y28_X68,$02
+	db $0c,FRAMEBLOCKCOORDS1_Y18_X68,$00
+	db $0c,FRAMEBLOCKCOORDS1_Y38_X78,$02
+	db $0c,FRAMEBLOCKCOORDS1_Y28_X78,$02
+	db $0c,FRAMEBLOCKCOORDS1_Y18_X78,$00
+	db $0c,FRAMEBLOCKCOORDS1_Y38_X88,$02
+	db $0c,FRAMEBLOCKCOORDS1_Y28_X88,$02
+	db $0c,FRAMEBLOCKCOORDS1_Y18_X88,$00
+
+Subanim1_1FlameBeam:
+	db $85
+	db $0c,FRAMEBLOCKCOORDS1_Y58_X28,$03
+	db $0c,FRAMEBLOCKCOORDS1_Y50_X3C,$03
+	db $0c,FRAMEBLOCKCOORDS1_Y48_X50,$03
+	db $0c,FRAMEBLOCKCOORDS1_Y40_X64,$03
+	db $0c,FRAMEBLOCKCOORDS1_Y38_X78,$00
+
+Subanim1_0Beam:
+	db $2e
+	db $18,FRAMEBLOCKCOORDS1_Y38_X38,$02
+	db $75,FRAMEBLOCKCOORDS1_Y48_X40,$04
+	db $19,FRAMEBLOCKCOORDS1_Y38_X38,$02
+	db $75,FRAMEBLOCKCOORDS1_Y44_X48,$04
+	db $1a,FRAMEBLOCKCOORDS1_Y38_X38,$02
+	db $75,FRAMEBLOCKCOORDS1_Y40_X50,$04
+	db $1b,FRAMEBLOCKCOORDS1_Y38_X38,$02
+	db $75,FRAMEBLOCKCOORDS1_Y3C_X58,$04
+	db $1c,FRAMEBLOCKCOORDS1_Y38_X38,$02
+	db $75,FRAMEBLOCKCOORDS1_Y38_X60,$04
+	db $1d,FRAMEBLOCKCOORDS1_Y38_X38,$02
+	db $75,FRAMEBLOCKCOORDS1_Y34_X68,$04
+	db $1e,FRAMEBLOCKCOORDS1_Y38_X38,$02
+	db $75,FRAMEBLOCKCOORDS1_Y30_X70,$00
+
+Subanim1_0IceRise:
+	db $44
+	db $1f,FRAMEBLOCKCOORDS1_Y40_X68,$00
+	db $20,FRAMEBLOCKCOORDS1_Y38_X68,$00
+	db $21,FRAMEBLOCKCOORDS1_Y30_X68,$00
+	db $22,FRAMEBLOCKCOORDS1_Y28_X68,$00
+
+Subanim1_0RocksFallEnemy:
+	db $52
+	db $23,FRAMEBLOCKCOORDS1_Y10_X68,$02
+	db $23,FRAMEBLOCKCOORDS1_Y10_X78,$02
+	db $23,FRAMEBLOCKCOORDS1_Y10_X88,$00
+	db $23,FRAMEBLOCKCOORDS1_Y18_X68,$02
+	db $23,FRAMEBLOCKCOORDS1_Y10_X78,$02
+	db $23,FRAMEBLOCKCOORDS1_Y10_X88,$00
+	db $23,FRAMEBLOCKCOORDS1_Y20_X68,$02
+	db $23,FRAMEBLOCKCOORDS1_Y10_X78,$02
+	db $23,FRAMEBLOCKCOORDS1_Y18_X88,$00
+	db $25,FRAMEBLOCKCOORDS1_Y18_X68,$00
+	db $25,FRAMEBLOCKCOORDS1_Y20_X68,$00
+	db $25,FRAMEBLOCKCOORDS1_Y28_X68,$00
+	db $24,FRAMEBLOCKCOORDS1_Y40_X68,$02
+	db $23,FRAMEBLOCKCOORDS1_Y30_X78,$02
+	db $23,FRAMEBLOCKCOORDS1_Y38_X88,$00
+	db $23,FRAMEBLOCKCOORDS1_Y38_X78,$02
+	db $24,FRAMEBLOCKCOORDS1_Y40_X88,$00
+	db $24,FRAMEBLOCKCOORDS1_Y40_X88,$00
+
+Subanim1_0Scratches:
+	db $4c
+	db $26,FRAMEBLOCKCOORDS1_Y20_X68,$02
+	db $26,FRAMEBLOCKCOORDS1_Y28_X70,$02
+	db $26,FRAMEBLOCKCOORDS1_Y30_X78,$00
+	db $27,FRAMEBLOCKCOORDS1_Y20_X68,$02
+	db $27,FRAMEBLOCKCOORDS1_Y28_X70,$02
+	db $27,FRAMEBLOCKCOORDS1_Y30_X78,$00
+	db $28,FRAMEBLOCKCOORDS1_Y20_X68,$02
+	db $28,FRAMEBLOCKCOORDS1_Y28_X70,$02
+	db $28,FRAMEBLOCKCOORDS1_Y30_X78,$00
+	db $29,FRAMEBLOCKCOORDS1_Y20_X68,$02
+	db $29,FRAMEBLOCKCOORDS1_Y28_X70,$02
+	db $29,FRAMEBLOCKCOORDS1_Y30_X78,$00
+
+Subanim1_0Slice:
+	db $4c
+	db $2a,FRAMEBLOCKCOORDS1_Y10_X90,$00
+	db $2b,FRAMEBLOCKCOORDS1_Y10_X90,$02
+	db $2b,FRAMEBLOCKCOORDS1_Y18_X88,$02
+	db $2a,FRAMEBLOCKCOORDS1_Y20_X80,$04
+	db $2b,FRAMEBLOCKCOORDS1_Y20_X80,$02
+	db $2b,FRAMEBLOCKCOORDS1_Y28_X78,$02
+	db $2a,FRAMEBLOCKCOORDS1_Y30_X70,$04
+	db $2b,FRAMEBLOCKCOORDS1_Y30_X70,$02
+	db $2b,FRAMEBLOCKCOORDS1_Y38_X68,$02
+	db $2a,FRAMEBLOCKCOORDS1_Y40_X60,$04
+	db $2c,FRAMEBLOCKCOORDS1_Y10_X68,$02
+	db $2c,FRAMEBLOCKCOORDS1_Y10_X68,$00
+
+Subanim1_1Tornado:
+	db $88
+	db $2d,FRAMEBLOCKCOORDS1_Y50_X30,$00
+	db $2e,FRAMEBLOCKCOORDS1_Y50_X38,$00
+	db $2d,FRAMEBLOCKCOORDS1_Y50_X40,$00
+	db $2e,FRAMEBLOCKCOORDS1_Y50_X48,$00
+	db $2d,FRAMEBLOCKCOORDS1_Y50_X50,$00
+	db $2e,FRAMEBLOCKCOORDS1_Y48_X58,$00
+	db $2d,FRAMEBLOCKCOORDS1_Y40_X60,$00
+	db $2e,FRAMEBLOCKCOORDS1_Y30_X68,$00
+
+Subanim1_0SoundWave:
+	db $2a
+	db $2f,FRAMEBLOCKCOORDS1_Y50_X40,$00
+	db $2f,FRAMEBLOCKCOORDS1_Y50_X44,$00
+	db $2f,FRAMEBLOCKCOORDS1_Y48_X48,$00
+	db $2f,FRAMEBLOCKCOORDS1_Y48_X4C,$00
+	db $2f,FRAMEBLOCKCOORDS1_Y40_X50,$00
+	db $2f,FRAMEBLOCKCOORDS1_Y40_X54,$00
+	db $2f,FRAMEBLOCKCOORDS1_Y38_X58,$00
+	db $2f,FRAMEBLOCKCOORDS1_Y38_X5C,$00
+	db $2f,FRAMEBLOCKCOORDS1_Y30_X60,$00
+	db $2f,FRAMEBLOCKCOORDS1_Y30_X64,$00
+
+Subanim1_1BlobToss:
+	db $86
+	db $30,FRAMEBLOCKCOORDS1_Y43_X38,$00
+	db $30,FRAMEBLOCKCOORDS1_Y33_X48,$00
+	db $30,FRAMEBLOCKCOORDS1_Y28_X58,$00
+	db $30,FRAMEBLOCKCOORDS1_Y20_X68,$00
+	db $30,FRAMEBLOCKCOORDS1_Y20_X70,$00
+	db $30,FRAMEBLOCKCOORDS1_Y20_X78,$00
+
+Subanim1_1BlobDripEnemy:
+	db $49
+	db $30,FRAMEBLOCKCOORDS1_Y20_X78,$00
+	db $30,FRAMEBLOCKCOORDS1_Y20_X78,$03
+	db $31,FRAMEBLOCKCOORDS1_Y30_X78,$04
+	db $31,FRAMEBLOCKCOORDS1_Y38_X78,$04
+	db $31,FRAMEBLOCKCOORDS1_Y40_X78,$00
+	db $30,FRAMEBLOCKCOORDS1_Y20_X78,$02
+	db $31,FRAMEBLOCKCOORDS1_Y30_X80,$04
+	db $31,FRAMEBLOCKCOORDS1_Y38_X80,$04
+	db $31,FRAMEBLOCKCOORDS1_Y40_X80,$00
+
+Subanim1_1ExplosionSmallEnemy:
+	db $43
+	db $48,FRAMEBLOCKCOORDS1_Y18_X70,$00
+	db $49,FRAMEBLOCKCOORDS1_Y18_X70,$00
+	db $5a,FRAMEBLOCKCOORDS1_Y18_X70,$00
+
+Subanim1_1Shout:
+	db $22
+	db $35,FRAMEBLOCKCOORDS1_Y48_X40,$00
+	db $35,FRAMEBLOCKCOORDS1_Y48_X39,$00
+
+; replaced floating duckies with floating poison spot
+Subanim1_0BlobCirclingEnemy:
+	db $46
+	db $30,FRAMEBLOCKCOORDS1_Y24_X88,$00
+	db $30,FRAMEBLOCKCOORDS1_Y24_X70,$00
+	db $30,FRAMEBLOCKCOORDS1_Y20_X68,$00
+	db $30,FRAMEBLOCKCOORDS1_Y1C_X70,$00
+	db $30,FRAMEBLOCKCOORDS1_Y1C_X88,$00
+	db $30,FRAMEBLOCKCOORDS1_Y20_X90,$00
+
+Subanim1_1SwordsCircling:
+	db $a4
+	db $36,FRAMEBLOCKCOORDS1_Y24_X88,$00
+	db $36,FRAMEBLOCKCOORDS1_Y24_X70,$00
+	db $37,FRAMEBLOCKCOORDS1_Y1C_X70,$00
+	db $37,FRAMEBLOCKCOORDS1_Y1C_X88,$00
+
+Subanim1_1MusicCirclingEnemy:
+	db $46
+	db $17,FRAMEBLOCKCOORDS1_Y24_X88,$00
+	db $17,FRAMEBLOCKCOORDS1_Y24_X70,$00
+	db $17,FRAMEBLOCKCOORDS1_Y20_X68,$00
+	db $17,FRAMEBLOCKCOORDS1_Y1C_X70,$00
+	db $17,FRAMEBLOCKCOORDS1_Y1C_X88,$00
+	db $17,FRAMEBLOCKCOORDS1_Y20_X90,$00
+
+Subanim1_1CloudToss:
+	db $8c
+	db $38,FRAMEBLOCKCOORDS1_Y43_X38,$00
+	db $39,FRAMEBLOCKCOORDS1_Y43_X38,$00
+	db $38,FRAMEBLOCKCOORDS1_Y33_X48,$00
+	db $39,FRAMEBLOCKCOORDS1_Y33_X48,$00
+	db $38,FRAMEBLOCKCOORDS1_Y28_X58,$00
+	db $39,FRAMEBLOCKCOORDS1_Y28_X58,$00
+	db $38,FRAMEBLOCKCOORDS1_Y20_X68,$00
+	db $39,FRAMEBLOCKCOORDS1_Y20_X68,$00
+	db $38,FRAMEBLOCKCOORDS1_Y20_X70,$00
+	db $39,FRAMEBLOCKCOORDS1_Y20_X70,$00
+	db $38,FRAMEBLOCKCOORDS1_Y20_X78,$00
+	db $39,FRAMEBLOCKCOORDS1_Y20_X78,$00
+
+Subanim1_0WaterColumns:
+	db $50
+	db $3a,FRAMEBLOCKCOORDS1_Y18_X70,$00
+	db $3b,FRAMEBLOCKCOORDS1_Y18_X70,$00
+	db $3c,FRAMEBLOCKCOORDS1_Y18_X70,$00
+	db $3d,FRAMEBLOCKCOORDS1_Y18_X70,$00
+	db $3e,FRAMEBLOCKCOORDS1_Y18_X70,$00
+	db $3f,FRAMEBLOCKCOORDS1_Y18_X70,$00
+	db $3e,FRAMEBLOCKCOORDS1_Y18_X70,$00
+	db $3f,FRAMEBLOCKCOORDS1_Y18_X70,$00
+	db $3a,FRAMEBLOCKCOORDS1_Y18_X80,$00
+	db $3b,FRAMEBLOCKCOORDS1_Y18_X80,$00
+	db $3c,FRAMEBLOCKCOORDS1_Y18_X80,$00
+	db $3d,FRAMEBLOCKCOORDS1_Y18_X80,$00
+	db $3e,FRAMEBLOCKCOORDS1_Y18_X80,$00
+	db $3f,FRAMEBLOCKCOORDS1_Y18_X80,$00
+	db $3e,FRAMEBLOCKCOORDS1_Y18_X80,$00
+	db $3f,FRAMEBLOCKCOORDS1_Y18_X80,$00
+
+Subanim1_1SeedToss:
+	db $84
+	db $40,FRAMEBLOCKCOORDS1_Y43_X38,$00
+	db $40,FRAMEBLOCKCOORDS1_Y33_X48,$00
+	db $40,FRAMEBLOCKCOORDS1_Y28_X58,$00
+	db $40,FRAMEBLOCKCOORDS1_Y28_X68,$00
+
+Subanim1_1SeedLand:
+	db $43
+	db $41,FRAMEBLOCKCOORDS1_Y34_X68,$00
+	db $41,FRAMEBLOCKCOORDS1_Y34_X88,$00
+	db $41,FRAMEBLOCKCOORDS1_Y38_X78,$00
+
+Subanim1_1FlameStar:
+	db $42
+	db $42,FRAMEBLOCKCOORDS1_Y18_X68,$00
+	db $43,FRAMEBLOCKCOORDS1_Y18_X68,$00
+
+Subanim1_0Circles_1Squares_CenteringEnemy:
+	db $43
+	db $44,FRAMEBLOCKCOORDS1_Y10_X68,$00
+	db $45,FRAMEBLOCKCOORDS1_Y18_X70,$00
+	db $46,FRAMEBLOCKCOORDS1_Y20_X78,$02
+
+Subanim1_0Circle_1Square_TossBack:
+	db $8b
+	db $47,FRAMEBLOCKCOORDS1_Y20_X78,$00
+	db $47,FRAMEBLOCKCOORDS1_Y1C_X70,$00
+	db $47,FRAMEBLOCKCOORDS1_Y18_X68,$00
+	db $47,FRAMEBLOCKCOORDS1_Y16_X60,$00
+	db $47,FRAMEBLOCKCOORDS1_Y14_X58,$00
+	db $47,FRAMEBLOCKCOORDS1_Y12_X54,$00
+	db $47,FRAMEBLOCKCOORDS1_Y14_X50,$00
+	db $47,FRAMEBLOCKCOORDS1_Y18_X4C,$00
+	db $47,FRAMEBLOCKCOORDS1_Y1C_X48,$00
+	db $47,FRAMEBLOCKCOORDS1_Y30_X38,$00
+	db $47,FRAMEBLOCKCOORDS1_Y48_X28,$00
+
+; DOUBLE-EDGE
+Subanim1_0CirclesCentering:			; modify it so that it displays correctly when used by the opponent
+	db $A6
+	db $44,FRAMEBLOCKCOORDS1_Y10_X68,$00
+	db $45,FRAMEBLOCKCOORDS1_Y18_X70,$00
+	db $46,FRAMEBLOCKCOORDS1_Y20_X78,$00
+	db $47,FRAMEBLOCKCOORDS1_Y20_X78,$00
+	db $47,FRAMEBLOCKCOORDS1_Y20_X78,$00
+	db $47,FRAMEBLOCKCOORDS1_Y20_X78,$00
+
+Subanim1_1SphereBig:
+	db $41
+	db $71,FRAMEBLOCKCOORDS1_Y20_X70,$03
+
+Subanim1_1SphereBigRise:
+	db $47
+	db $71,FRAMEBLOCKCOORDS1_Y20_X70,$00
+	db $71,FRAMEBLOCKCOORDS1_Y18_X70,$00
+	db $71,FRAMEBLOCKCOORDS1_Y10_X70,$00
+	db $71,FRAMEBLOCKCOORDS1_Y08_X70,$00
+	db $72,FRAMEBLOCKCOORDS1_Y08_X70,$00
+	db $73,FRAMEBLOCKCOORDS1_Y08_X70,$00
+	db $74,FRAMEBLOCKCOORDS1_Y08_X70,$00
+
+Subanim1_1SphereBigFall:
+	db $48
+	db $74,FRAMEBLOCKCOORDS1_Y08_X70,$00
+	db $73,FRAMEBLOCKCOORDS1_Y08_X70,$00
+	db $72,FRAMEBLOCKCOORDS1_Y08_X70,$00
+	db $71,FRAMEBLOCKCOORDS1_Y08_X70,$00
+	db $71,FRAMEBLOCKCOORDS1_Y10_X70,$00
+	db $71,FRAMEBLOCKCOORDS1_Y18_X70,$00
+	db $71,FRAMEBLOCKCOORDS1_Y20_X70,$00
+	db $71,FRAMEBLOCKCOORDS1_Y28_X70,$00
+
+Subanim1_1LightningBall:
+	db $5d
+	db $48,FRAMEBLOCKCOORDS1_Y20_X70,$00
+	db $4a,FRAMEBLOCKCOORDS1_Y10_X62,$03
+	db $4b,FRAMEBLOCKCOORDS1_Y10_X60,$03
+	db $49,FRAMEBLOCKCOORDS1_Y20_X70,$00
+	db $4a,FRAMEBLOCKCOORDS1_Y10_X62,$03
+	db $4b,FRAMEBLOCKCOORDS1_Y10_X60,$00
+	db $4c,FRAMEBLOCKCOORDS1_Y12_X60,$03
+	db $4d,FRAMEBLOCKCOORDS1_Y12_X62,$03
+	db $49,FRAMEBLOCKCOORDS1_Y20_X72,$00
+	db $4c,FRAMEBLOCKCOORDS1_Y12_X60,$03
+	db $4d,FRAMEBLOCKCOORDS1_Y12_X62,$00
+	db $4a,FRAMEBLOCKCOORDS1_Y10_X62,$03
+	db $4b,FRAMEBLOCKCOORDS1_Y10_X60,$03
+	db $49,FRAMEBLOCKCOORDS1_Y22_X72,$00
+	db $4a,FRAMEBLOCKCOORDS1_Y10_X62,$03
+	db $4b,FRAMEBLOCKCOORDS1_Y10_X60,$00
+	db $4c,FRAMEBLOCKCOORDS1_Y12_X60,$03
+	db $4d,FRAMEBLOCKCOORDS1_Y12_X62,$03
+	db $49,FRAMEBLOCKCOORDS1_Y22_X70,$00
+	db $4c,FRAMEBLOCKCOORDS1_Y12_X60,$03
+	db $4d,FRAMEBLOCKCOORDS1_Y10_X60,$00
+	db $4a,FRAMEBLOCKCOORDS1_Y10_X62,$03
+	db $4b,FRAMEBLOCKCOORDS1_Y10_X60,$03
+	db $49,FRAMEBLOCKCOORDS1_Y20_X70,$00
+	db $4a,FRAMEBLOCKCOORDS1_Y10_X62,$03
+	db $4b,FRAMEBLOCKCOORDS1_Y10_X60,$00
+	db $4c,FRAMEBLOCKCOORDS1_Y12_X60,$03
+	db $4d,FRAMEBLOCKCOORDS1_Y10_X60,$03
+	db $49,FRAMEBLOCKCOORDS1_Y20_X72,$00
+
+Subanim1_0SliceBothSides:
+	db $44
+	db $4e,FRAMEBLOCKCOORDS1_Y18_X60,$00
+	db $4f,FRAMEBLOCKCOORDS1_Y18_X60,$00
+	db $50,FRAMEBLOCKCOORDS1_Y18_X60,$00
+	db $50,FRAMEBLOCKCOORDS1_Y18_X60,$00
+
+Subanim1_0Bind:
+	db $42
+	db $51,FRAMEBLOCKCOORDS1_Y28_X60,$00
+	db $51,FRAMEBLOCKCOORDS1_Y28_X62,$00
+
+Subanim1_0StatusParalyzed:
+	db $a2
+	db $51,FRAMEBLOCKCOORDS1_Y28_X60,$00
+	db $51,FRAMEBLOCKCOORDS1_Y28_X62,$00
+
+Subanim1_0StatusConfused:
+	db $62
+	db $52,FRAMEBLOCKCOORDS1_Y38_X30,$00
+	db $52,FRAMEBLOCKCOORDS1_Y40_X48,$00
+
+Subanim1_0StatusConfusedEnemy:
+	db $02
+	db $52,FRAMEBLOCKCOORDS1_Y10_X70,$00
+	db $52,FRAMEBLOCKCOORDS1_Y20_X60,$00
+
+Subanim1_0StatusSleep:
+	db $63
+	db $53,FRAMEBLOCKCOORDS1_Y38_X30,$00
+	db $53,FRAMEBLOCKCOORDS1_Y38_X28,$00
+	db $53,FRAMEBLOCKCOORDS1_Y40_X20,$00
+
+Subanim1_0StatusSleepEnemy:
+	db $03
+	db $53,FRAMEBLOCKCOORDS1_Y10_X70,$00
+	db $53,FRAMEBLOCKCOORDS1_Y28_X68,$00
+	db $53,FRAMEBLOCKCOORDS1_Y20_X60,$00
+
+Subanim1_0StatusPoisoned:
+	db $a2
+	db $54,FRAMEBLOCKCOORDS1_Y10_X70,$00
+	db $54,FRAMEBLOCKCOORDS1_Y20_X60,$00
+
+Subanim1_1Sand:
+	db $23
+	db $55,FRAMEBLOCKCOORDS1_Y30_X48,$03
+	db $56,FRAMEBLOCKCOORDS1_Y30_X48,$03
+	db $57,FRAMEBLOCKCOORDS1_Y30_X48,$00
+
+Subanim1_1Barrier:
+	db $26
+	db $58,FRAMEBLOCKCOORDS1_Y38_X48,$00
+	db $34,FRAMEBLOCKCOORDS1_Y38_X48,$00
+	db $58,FRAMEBLOCKCOORDS1_Y38_X48,$00
+	db $34,FRAMEBLOCKCOORDS1_Y38_X48,$00
+	db $58,FRAMEBLOCKCOORDS1_Y38_X48,$00
+	db $34,FRAMEBLOCKCOORDS1_Y38_X48,$00
+
+Subanim1_1Selfdestruct:
+	db $35
+	db $48,FRAMEBLOCKCOORDS1_Y38_X10,$00
+	db $49,FRAMEBLOCKCOORDS1_Y38_X10,$00
+	db $5a,FRAMEBLOCKCOORDS1_Y38_X10,$00
+	db $48,FRAMEBLOCKCOORDS1_Y58_X28,$00
+	db $49,FRAMEBLOCKCOORDS1_Y58_X28,$00
+	db $5a,FRAMEBLOCKCOORDS1_Y58_X28,$00
+	db $48,FRAMEBLOCKCOORDS1_Y50_X10,$00
+	db $49,FRAMEBLOCKCOORDS1_Y50_X10,$00
+	db $5a,FRAMEBLOCKCOORDS1_Y50_X10,$00
+	db $48,FRAMEBLOCKCOORDS1_Y38_X28,$00
+	db $49,FRAMEBLOCKCOORDS1_Y38_X28,$00
+	db $5a,FRAMEBLOCKCOORDS1_Y38_X28,$00
+	db $48,FRAMEBLOCKCOORDS1_Y48_X18,$00
+	db $49,FRAMEBLOCKCOORDS1_Y48_X18,$00
+	db $5a,FRAMEBLOCKCOORDS1_Y48_X18,$00
+	db $48,FRAMEBLOCKCOORDS1_Y40_X20,$00
+	db $49,FRAMEBLOCKCOORDS1_Y40_X20,$00
+	db $5a,FRAMEBLOCKCOORDS1_Y40_X20,$00
+	db $48,FRAMEBLOCKCOORDS1_Y48_X20,$00
+	db $49,FRAMEBLOCKCOORDS1_Y48_X20,$00
+	db $5a,FRAMEBLOCKCOORDS1_Y48_X20,$00
+
+Subanim1_0WaterBubbles:
+	db $24
+	db $5b,FRAMEBLOCKCOORDS1_Y40_X3C,$03
+	db $5c,FRAMEBLOCKCOORDS1_Y38_X50,$03
+	db $5d,FRAMEBLOCKCOORDS1_Y28_X64,$03
+	db $5e,FRAMEBLOCKCOORDS1_Y18_X78,$00
+
+Subanim1_0CirclesFalling:
+	db $48
+	db $5f,FRAMEBLOCKCOORDS1_Y10_X60,$00
+	db $5f,FRAMEBLOCKCOORDS1_Y10_X68,$00
+	db $60,FRAMEBLOCKCOORDS1_Y10_X60,$00
+	db $60,FRAMEBLOCKCOORDS1_Y10_X68,$00
+	db $61,FRAMEBLOCKCOORDS1_Y10_X60,$00
+	db $61,FRAMEBLOCKCOORDS1_Y10_X68,$00
+	db $62,FRAMEBLOCKCOORDS1_Y10_X60,$00
+	db $62,FRAMEBLOCKCOORDS1_Y10_X68,$00
+
+Subanim1_0IceFall:
+	db $50
+	db $66,FRAMEBLOCKCOORDS1_Y10_X50,$00
+	db $66,FRAMEBLOCKCOORDS1_Y20_X58,$00
+	db $66,FRAMEBLOCKCOORDS1_Y30_X60,$00
+	db $67,FRAMEBLOCKCOORDS1_Y40_X68,$03
+	db $66,FRAMEBLOCKCOORDS1_Y10_X70,$04
+	db $66,FRAMEBLOCKCOORDS1_Y20_X78,$04
+	db $66,FRAMEBLOCKCOORDS1_Y30_X80,$04
+	db $67,FRAMEBLOCKCOORDS1_Y40_X88,$03
+	db $66,FRAMEBLOCKCOORDS1_Y10_X60,$04
+	db $66,FRAMEBLOCKCOORDS1_Y20_X68,$04
+	db $66,FRAMEBLOCKCOORDS1_Y30_X70,$04
+	db $67,FRAMEBLOCKCOORDS1_Y40_X78,$03
+	db $66,FRAMEBLOCKCOORDS1_Y10_X80,$04
+	db $66,FRAMEBLOCKCOORDS1_Y20_X88,$04
+	db $66,FRAMEBLOCKCOORDS1_Y30_X90,$04
+	db $67,FRAMEBLOCKCOORDS1_Y40_X98,$00
+
+Subanim1_1StarBigToss:
+	db $92
+	db $02,FRAMEBLOCKCOORDS1_Y43_X38,$00
+	db $34,FRAMEBLOCKCOORDS1_Y43_X38,$00
+	db $02,FRAMEBLOCKCOORDS1_Y43_X38,$00
+	db $02,FRAMEBLOCKCOORDS1_Y33_X48,$00
+	db $34,FRAMEBLOCKCOORDS1_Y33_X48,$00
+	db $02,FRAMEBLOCKCOORDS1_Y33_X48,$00
+	db $02,FRAMEBLOCKCOORDS1_Y28_X58,$00
+	db $34,FRAMEBLOCKCOORDS1_Y28_X58,$00
+	db $02,FRAMEBLOCKCOORDS1_Y28_X58,$00
+	db $02,FRAMEBLOCKCOORDS1_Y20_X68,$00
+	db $34,FRAMEBLOCKCOORDS1_Y20_X68,$00
+	db $02,FRAMEBLOCKCOORDS1_Y20_X68,$00
+	db $02,FRAMEBLOCKCOORDS1_Y20_X70,$00
+	db $34,FRAMEBLOCKCOORDS1_Y20_X70,$00
+	db $02,FRAMEBLOCKCOORDS1_Y20_X70,$00
+	db $02,FRAMEBLOCKCOORDS1_Y20_X78,$00
+	db $34,FRAMEBLOCKCOORDS1_Y20_X78,$00
+	db $02,FRAMEBLOCKCOORDS1_Y20_X78,$00
+
+Subanim1_1StarsSmallToss:
+	db $72
+	db $68,FRAMEBLOCKCOORDS1_Y48_X48,$00
+	db $68,FRAMEBLOCKCOORDS1_Y40_X58,$00
+	db $68,FRAMEBLOCKCOORDS1_Y38_X68,$00
+	db $68,FRAMEBLOCKCOORDS1_Y30_X78,$00
+	db $68,FRAMEBLOCKCOORDS1_Y28_X88,$00
+	db $68,FRAMEBLOCKCOORDS1_Y20_X98,$00
+	db $68,FRAMEBLOCKCOORDS1_Y38_X48,$00
+	db $68,FRAMEBLOCKCOORDS1_Y30_X58,$00
+	db $68,FRAMEBLOCKCOORDS1_Y28_X68,$00
+	db $68,FRAMEBLOCKCOORDS1_Y20_X78,$00
+	db $68,FRAMEBLOCKCOORDS1_Y18_X88,$00
+	db $68,FRAMEBLOCKCOORDS1_Y10_X98,$00
+	db $68,FRAMEBLOCKCOORDS1_Y58_X48,$00
+	db $68,FRAMEBLOCKCOORDS1_Y50_X58,$00
+	db $68,FRAMEBLOCKCOORDS1_Y48_X68,$00
+	db $68,FRAMEBLOCKCOORDS1_Y40_X78,$00
+	db $68,FRAMEBLOCKCOORDS1_Y38_X88,$00
+	db $68,FRAMEBLOCKCOORDS1_Y30_X98,$00
+
+Subanim1_1LeavesToss:
+	db $2c
+	db $69,FRAMEBLOCKCOORDS1_Y48_X48,$00
+	db $69,FRAMEBLOCKCOORDS1_Y40_X58,$00
+	db $69,FRAMEBLOCKCOORDS1_Y38_X68,$00
+	db $69,FRAMEBLOCKCOORDS1_Y30_X78,$00
+	db $69,FRAMEBLOCKCOORDS1_Y28_X88,$00
+	db $69,FRAMEBLOCKCOORDS1_Y28_X68,$00
+	db $69,FRAMEBLOCKCOORDS1_Y38_X48,$00
+	db $69,FRAMEBLOCKCOORDS1_Y30_X58,$00
+	db $69,FRAMEBLOCKCOORDS1_Y28_X68,$00
+	db $69,FRAMEBLOCKCOORDS1_Y20_X78,$00
+	db $69,FRAMEBLOCKCOORDS1_Y18_X88,$00
+	db $69,FRAMEBLOCKCOORDS1_Y10_X98,$00
+
+Subanim1_0Circle_1Square_Closing:
+	db $a3
+	db $6a,FRAMEBLOCKCOORDS1_Y18_X68,$00
+	db $6b,FRAMEBLOCKCOORDS1_Y20_X70,$00
+	db $6c,FRAMEBLOCKCOORDS1_Y28_X78,$00
+
+Subanim1_0HornJabTwice:
+	db $24
+	db $6d,FRAMEBLOCKCOORDS1_Y3C_X40,$00
+	db $6d,FRAMEBLOCKCOORDS1_Y38_X50,$00
+	db $6d,FRAMEBLOCKCOORDS1_Y44_X48,$00
+	db $6d,FRAMEBLOCKCOORDS1_Y40_X58,$00
+
+Subanim1_0HornJabThrice:
+	db $26
+	db $6d,FRAMEBLOCKCOORDS1_Y3C_X40,$00
+	db $6d,FRAMEBLOCKCOORDS1_Y38_X50,$00
+	db $6d,FRAMEBLOCKCOORDS1_Y44_X48,$00
+	db $6d,FRAMEBLOCKCOORDS1_Y40_X58,$00
+	db $6d,FRAMEBLOCKCOORDS1_Y34_X28,$00
+	db $6d,FRAMEBLOCKCOORDS1_Y30_X38,$00
+
+Subanim1_0BallPoof:
+	db $23
+	db $06,FRAMEBLOCKCOORDS1_Y48_X20,$00
+	db $07,FRAMEBLOCKCOORDS1_Y48_X20,$00
+	db $08,FRAMEBLOCKCOORDS1_Y44_X1C,$00
+
+Subanim1_2TradeBallDrop:
+	db $06
+	db $03,FRAMEBLOCKCOORDS1_Y48_X50,$04
+	db $03,FRAMEBLOCKCOORDS1_Y50_X50,$04
+	db $04,FRAMEBLOCKCOORDS1_Y50_X50,$04
+	db $03,FRAMEBLOCKCOORDS1_Y50_X50,$04
+	db $05,FRAMEBLOCKCOORDS1_Y50_X50,$04
+	db $03,FRAMEBLOCKCOORDS1_Y50_X50,$03
+
+Subanim1_2TradeBallShake:
+	db $04
+	db $04,FRAMEBLOCKCOORDS1_Y50_X50,$04
+	db $03,FRAMEBLOCKCOORDS1_Y50_X50,$04
+	db $05,FRAMEBLOCKCOORDS1_Y50_X50,$04
+	db $03,FRAMEBLOCKCOORDS1_Y50_X50,$03
+
+Subanim1_2TradeBallAppear:
+	db $01
+	db $04,FRAMEBLOCKCOORDS1_Y38_X50,$03
+
+Subanim1_2TradeBallPoof:
+	db $03
+	db $06,FRAMEBLOCKCOORDS1_Y40_X48,$00
+	db $07,FRAMEBLOCKCOORDS1_Y40_X48,$00
+	db $08,FRAMEBLOCKCOORDS1_Y40_X48,$00
+
+Subanim1_0EggShaking:
+	db $68
+	db $6f,FRAMEBLOCKCOORDS1_Y58_X28,$00
+	db $6e,FRAMEBLOCKCOORDS1_Y58_X28,$00
+	db $70,FRAMEBLOCKCOORDS1_Y58_X28,$00
+	db $6e,FRAMEBLOCKCOORDS1_Y58_X28,$00
+	db $6f,FRAMEBLOCKCOORDS1_Y58_X28,$00
+	db $6e,FRAMEBLOCKCOORDS1_Y58_X28,$00
+	db $70,FRAMEBLOCKCOORDS1_Y58_X28,$00
+	db $6e,FRAMEBLOCKCOORDS1_Y58_X28,$00
+
+Subanim1_1TriangleToss:
+	db $26
+	db $32,FRAMEBLOCKCOORDS1_Y48_X48,$00
+	db $33,FRAMEBLOCKCOORDS1_Y38_X58,$00
+	db $32,FRAMEBLOCKCOORDS1_Y38_X68,$00
+	db $33,FRAMEBLOCKCOORDS1_Y28_X70,$00
+	db $32,FRAMEBLOCKCOORDS1_Y28_X88,$00
+	db $33,FRAMEBLOCKCOORDS1_Y18_X98,$00
+
+Subanim1_0Shell:
+	db $a6
+	db $76,FRAMEBLOCKCOORDS1_Y30_X70,$00
+	db $34,FRAMEBLOCKCOORDS1_Y30_X70,$00
+	db $76,FRAMEBLOCKCOORDS1_Y30_X70,$00
+	db $34,FRAMEBLOCKCOORDS1_Y30_X70,$00
+	db $76,FRAMEBLOCKCOORDS1_Y30_X70,$00
+	db $34,FRAMEBLOCKCOORDS1_Y30_X70,$00
+
+Subanim1_0SafariRock:
+	db $0c
+	db $78,FRAMEBLOCKCOORDS1_Y58_X28,$00
+	db $78,FRAMEBLOCKCOORDS1_Y4C_X30,$00
+	db $78,FRAMEBLOCKCOORDS1_Y40_X38,$00
+	db $78,FRAMEBLOCKCOORDS1_Y38_X40,$00
+	db $78,FRAMEBLOCKCOORDS1_Y30_X48,$00
+	db $78,FRAMEBLOCKCOORDS1_Y28_X50,$00
+	db $78,FRAMEBLOCKCOORDS1_Y20_X58,$00
+	db $78,FRAMEBLOCKCOORDS1_Y1E_X60,$00
+	db $78,FRAMEBLOCKCOORDS1_Y20_X68,$00
+	db $78,FRAMEBLOCKCOORDS1_Y29_X70,$00
+	db $78,FRAMEBLOCKCOORDS1_Y32_X78,$00
+	db $01,FRAMEBLOCKCOORDS1_Y2E_X74,$00
+
+Subanim1_0SafariBait:
+	db $0b
+	db $79,FRAMEBLOCKCOORDS1_Y58_X28,$00
+	db $79,FRAMEBLOCKCOORDS1_Y4C_X30,$00
+	db $79,FRAMEBLOCKCOORDS1_Y40_X38,$00
+	db $79,FRAMEBLOCKCOORDS1_Y38_X40,$00
+	db $79,FRAMEBLOCKCOORDS1_Y30_X48,$00
+	db $79,FRAMEBLOCKCOORDS1_Y28_X50,$00
+	db $79,FRAMEBLOCKCOORDS1_Y20_X58,$00
+	db $79,FRAMEBLOCKCOORDS1_Y1E_X60,$00
+	db $79,FRAMEBLOCKCOORDS1_Y20_X68,$00
+	db $79,FRAMEBLOCKCOORDS1_Y29_X70,$00
+	db $79,FRAMEBLOCKCOORDS1_Y32_X78,$00
+
+; Ball of energy (Absorb) moving straight from source to target
+Subanim1_0CircleTossStraight:
+	db $27
+	db $47,FRAMEBLOCKCOORDS1_Y48_X40,$00
+	db $47,FRAMEBLOCKCOORDS1_Y44_X48,$00
+	db $47,FRAMEBLOCKCOORDS1_Y40_X50,$00
+	db $47,FRAMEBLOCKCOORDS1_Y3C_X58,$00
+	db $47,FRAMEBLOCKCOORDS1_Y38_X60,$00
+	db $47,FRAMEBLOCKCOORDS1_Y34_X68,$00
+	db $47,FRAMEBLOCKCOORDS1_Y30_X70,$00
+
+; Big hit going straight down like karate chop
+Subanim1_1StarBigDescending:
+	db $44
+	db $02,FRAMEBLOCKCOORDS1_Y18_X78,$00
+	db $02,FRAMEBLOCKCOORDS1_Y20_X78,$00
+	db $02,FRAMEBLOCKCOORDS1_Y28_X78,$00
+	db $02,FRAMEBLOCKCOORDS1_Y30_X78,$00
+
+; 2 stalactites falling
+Subanim1_0StalactiteFall:
+	db $4b
+	db $7a,FRAMEBLOCKCOORDS1_Y10_X68,$02
+	db $7a,FRAMEBLOCKCOORDS1_Y10_X88,$00
+	db $7a,FRAMEBLOCKCOORDS1_Y18_X68,$02
+	db $7a,FRAMEBLOCKCOORDS1_Y10_X88,$00
+	db $7a,FRAMEBLOCKCOORDS1_Y20_X68,$02
+	db $7a,FRAMEBLOCKCOORDS1_Y18_X88,$00
+	db $7a,FRAMEBLOCKCOORDS1_Y28_X68,$02
+	db $7a,FRAMEBLOCKCOORDS1_Y20_X88,$00
+	db $7a,FRAMEBLOCKCOORDS1_Y40_X68,$02
+	db $7a,FRAMEBLOCKCOORDS1_Y38_X88,$00
+	db $7a,FRAMEBLOCKCOORDS1_Y40_X88,$00
+
+; wooden log dropping
+Subanim1_0WoodenLogToss:
+	db $47
+	db $7b,FRAMEBLOCKCOORDS1_Y10_X70,$00
+	db $7b,FRAMEBLOCKCOORDS1_Y18_X70,$00
+	db $7b,FRAMEBLOCKCOORDS1_Y20_X70,$00
+	db $7b,FRAMEBLOCKCOORDS1_Y28_X70,$00
+	db $7b,FRAMEBLOCKCOORDS1_Y30_X70,$00
+	db $7b,FRAMEBLOCKCOORDS1_Y38_X70,$00
+	db $7b,FRAMEBLOCKCOORDS1_Y40_X70,$00
+
+; leaf floating to the target
+Subanim1_1LeafFloat:
+	db $69
+	db $69,FRAMEBLOCKCOORDS2_Y58_X28,$00
+	db $69,FRAMEBLOCKCOORDS2_Y42_X36,$00
+	db $69,FRAMEBLOCKCOORDS2_Y38_X44,$00
+	db $69,FRAMEBLOCKCOORDS2_Y40_X52,$00
+	db $69,FRAMEBLOCKCOORDS2_Y48_X60,$00
+	db $69,FRAMEBLOCKCOORDS2_Y3E_X6E,$00
+	db $69,FRAMEBLOCKCOORDS2_Y28_X7C,$00
+	db $69,FRAMEBLOCKCOORDS2_Y28_X8A,$00
+	db $69,FRAMEBLOCKCOORDS2_Y30_X98,$00
+
+; beam of water droplets going from source to target
+Subanim1_0WaterDropletsBeamGoing:
+	db $27
+	db $7c,FRAMEBLOCKCOORDS3_Y48_X40,$03
+	db $7c,FRAMEBLOCKCOORDS3_Y44_X48,$03
+	db $7c,FRAMEBLOCKCOORDS3_Y40_X50,$03
+	db $7c,FRAMEBLOCKCOORDS3_Y3C_X58,$03
+	db $7c,FRAMEBLOCKCOORDS3_Y38_X60,$03
+	db $7c,FRAMEBLOCKCOORDS3_Y34_X68,$03
+	db $7c,FRAMEBLOCKCOORDS3_Y30_X70,$00
+
+; beam of water droplets complete
+Subanim1_0WaterDropletsBeamFull:
+	db $27
+	db $7c,FRAMEBLOCKCOORDS3_Y48_X40,$02
+	db $7c,FRAMEBLOCKCOORDS3_Y44_X48,$02
+	db $7c,FRAMEBLOCKCOORDS3_Y40_X50,$02
+	db $7c,FRAMEBLOCKCOORDS3_Y3C_X58,$02
+	db $7c,FRAMEBLOCKCOORDS3_Y38_X60,$02
+	db $7c,FRAMEBLOCKCOORDS3_Y34_X68,$02
+	db $7c,FRAMEBLOCKCOORDS3_Y30_X70,$00
+
+FrameBlockPointers:
+	dw FrameBlock00
+	dw FrameBlock01
+	dw FrameBlock02
+	dw FrameBlock03
+	dw FrameBlock04
+	dw FrameBlock05
+	dw FrameBlock06
+	dw FrameBlock07
+	dw FrameBlock08
+	dw FrameBlock09
+	dw FrameBlock0a
+	dw FrameBlock0b
+	dw FrameBlock0c
+	dw FrameBlock0d
+	dw FrameBlock0e
+	dw FrameBlock0f
+	dw FrameBlock10
+	dw FrameBlock11
+	dw FrameBlock12
+	dw FrameBlock13
+	dw FrameBlock14
+	dw FrameBlock15
+	dw FrameBlock16
+	dw FrameBlock17
+	dw FrameBlock18
+	dw FrameBlock19
+	dw FrameBlock1a
+	dw FrameBlock1b
+	dw FrameBlock1c
+	dw FrameBlock1d
+	dw FrameBlock1e
+	dw FrameBlock1f
+	dw FrameBlock20
+	dw FrameBlock21
+	dw FrameBlock22
+	dw FrameBlock23
+	dw FrameBlock24
+	dw FrameBlock25
+	dw FrameBlock26
+	dw FrameBlock27
+	dw FrameBlock28
+	dw FrameBlock29
+	dw FrameBlock2a
+	dw FrameBlock2b
+	dw FrameBlock2c
+	dw FrameBlock2d
+	dw FrameBlock2e
+	dw FrameBlock2f
+	dw FrameBlock30
+	dw FrameBlock31
+	dw FrameBlock32
+	dw FrameBlock33
+	dw FrameBlock34
+	dw FrameBlock35
+	dw FrameBlock36
+	dw FrameBlock37
+	dw FrameBlock38
+	dw FrameBlock39
+	dw FrameBlock3a
+	dw FrameBlock3b
+	dw FrameBlock3c
+	dw FrameBlock3d
+	dw FrameBlock3e
+	dw FrameBlock3f
+	dw FrameBlock40
+	dw FrameBlock41
+	dw FrameBlock42
+	dw FrameBlock43
+	dw FrameBlock44
+	dw FrameBlock45
+	dw FrameBlock46
+	dw FrameBlock47
+	dw SmallBlackCircleFrameBlock
+	dw LargeBlockCircleFrameBlock
+	dw FrameBlock4a
+	dw FrameBlock4b
+	dw FrameBlock4c
+	dw FrameBlock4d
+	dw FrameBlock4e
+	dw FrameBlock4f
+	dw FrameBlock50
+	dw FrameBlock51
+	dw FrameBlock52
+	dw FrameBlock53
+	dw FrameBlock54
+	dw FrameBlock55
+	dw FrameBlock56
+	dw FrameBlock57
+	dw FrameBlock58
+	dw FrameBlock59
+	dw FrameBlock5a
+	dw FrameBlock5b
+	dw FrameBlock5c
+	dw FrameBlock5d
+	dw FrameBlock5e
+	dw FrameBlock5f
+	dw FrameBlock60
+	dw FrameBlock61
+	dw FrameBlock62
+	dw FrameBlock63
+	dw FrameBlock64
+	dw FrameBlock65
+	dw FrameBlock66
+	dw FrameBlock67
+	dw FrameBlock68
+	dw FrameBlock69
+	dw FrameBlock6a
+	dw FrameBlock6b
+	dw FrameBlock6c
+	dw FrameBlock6d
+	dw FrameBlock6e
+	dw FrameBlock6f
+	dw FrameBlock70
+	dw FrameBlock71
+	dw FrameBlock72
+	dw FrameBlock73
+	dw FrameBlock74
+	dw FrameBlock75
+	dw FrameBlock76
+	dw FrameBlock77
+	dw FrameBlock78
+	dw FrameBlock79
+	dw FrameBlock7a	; stalactite
+	dw FrameBlock7b	; wooden log
+	dw FrameBlock7c	; water droplets
+	dw FrameBlock7d	; water droplets slightly off
+
+; FrameBlock format is as follows:
+; first byte = number of tiles in FrameBlock
+;
+; Next, each group of 4 bytes describes a tile in the FrameBlock
+; first byte = y offset
+; second byte = x offset
+; third byte = tile id (it's actually tile id - $31)
+; fourth byte = tile properties (xflip/yflip/etc.)
+FrameBlock01:
+	db $09
+	db $00,$00,$2c,$00
+	db $00,$08,$2d,$00
+	db $00,$10,$2c,$20
+	db $08,$00,$3c,$00
+	db $08,$08,$3d,$00
+	db $08,$10,$3c,$20
+	db $10,$00,$2c,$40
+	db $10,$08,$2d,$40
+	db $10,$10,$2c,$60
+
+FrameBlock02:
+	db $10
+	db $00,$00,$20,$00
+	db $00,$08,$21,$00
+	db $00,$10,$21,$20
+	db $00,$18,$20,$20
+	db $08,$00,$30,$00
+	db $08,$08,$31,$00
+	db $08,$10,$31,$20
+	db $08,$18,$30,$20
+	db $10,$00,$30,$40
+	db $10,$08,$31,$40
+	db $10,$10,$31,$60
+	db $10,$18,$30,$60
+	db $18,$00,$20,$40
+	db $18,$08,$21,$40
+	db $18,$10,$21,$60
+	db $18,$18,$20,$60
+
+FrameBlock03:
+	db $04
+	db $00,$00,$02,$00
+	db $00,$08,$02,$20
+	db $08,$00,$12,$00
+	db $08,$08,$12,$20
+
+FrameBlock04:
+	db $04
+	db $00,$00,$06,$00
+	db $00,$08,$07,$00
+	db $08,$00,$16,$00
+	db $08,$08,$17,$00
+
+FrameBlock05:
+	db $04
+	db $00,$00,$07,$20
+	db $00,$08,$06,$20
+	db $08,$00,$17,$20
+	db $08,$08,$16,$20
+
+FrameBlock06:
+	db $0c
+	db $00,$08,$23,$00
+	db $08,$00,$32,$00
+	db $08,$08,$33,$00
+	db $00,$10,$23,$20
+	db $08,$10,$33,$20
+	db $08,$18,$32,$20
+	db $10,$00,$32,$40
+	db $10,$08,$33,$40
+	db $18,$08,$23,$40
+	db $10,$10,$33,$60
+	db $10,$18,$32,$60
+	db $18,$10,$23,$60
+
+FrameBlock07:
+	db $10
+	db $00,$00,$20,$00
+	db $00,$08,$21,$00
+	db $08,$00,$30,$00
+	db $08,$08,$31,$00
+	db $00,$10,$21,$20
+	db $00,$18,$20,$20
+	db $08,$10,$31,$20
+	db $08,$18,$30,$20
+	db $10,$00,$30,$40
+	db $10,$08,$31,$40
+	db $18,$00,$20,$40
+	db $18,$08,$21,$40
+	db $10,$10,$31,$60
+	db $10,$18,$30,$60
+	db $18,$10,$21,$60
+	db $18,$18,$20,$60
+
+FrameBlock08:
+	db $10
+	db $00,$00,$20,$00
+	db $00,$08,$21,$00
+	db $08,$00,$30,$00
+	db $08,$08,$31,$00
+	db $00,$18,$21,$20
+	db $00,$20,$20,$20
+	db $08,$18,$31,$20
+	db $08,$20,$30,$20
+	db $18,$00,$30,$40
+	db $18,$08,$31,$40
+	db $20,$00,$20,$40
+	db $20,$08,$21,$40
+	db $18,$18,$31,$60
+	db $18,$20,$30,$60
+	db $20,$18,$21,$60
+	db $20,$20,$20,$60
+
+FrameBlock09:
+	db $0c
+	db $00,$00,$24,$00
+	db $00,$08,$25,$00
+	db $08,$00,$34,$00
+	db $00,$18,$25,$20
+	db $00,$20,$24,$20
+	db $08,$20,$34,$20
+	db $18,$00,$34,$40
+	db $20,$00,$24,$40
+	db $20,$08,$25,$40
+	db $18,$20,$34,$60
+	db $20,$18,$25,$60
+	db $20,$20,$24,$60
+
+FrameBlock0a:
+	db $0c
+	db $00,$00,$24,$00
+	db $00,$08,$25,$00
+	db $08,$00,$34,$00
+	db $00,$20,$25,$20
+	db $00,$28,$24,$20
+	db $08,$28,$34,$20
+	db $20,$00,$34,$40
+	db $28,$00,$24,$40
+	db $28,$08,$25,$40
+	db $20,$28,$34,$60
+	db $28,$20,$25,$60
+	db $28,$28,$24,$60
+
+FrameBlock0b:
+	db $04
+	db $00,$00,$05,$00
+	db $00,$08,$05,$20
+	db $08,$00,$15,$00
+	db $08,$08,$15,$20
+
+FrameBlock0c:
+	db $04
+	db $00,$00,$04,$00
+	db $00,$08,$04,$20
+	db $08,$00,$14,$00
+	db $08,$08,$14,$20
+
+FrameBlock0d:
+	db $08
+	db $00,$00,$0c,$00
+	db $00,$08,$0d,$00
+	db $08,$00,$1c,$00
+	db $08,$08,$1d,$00
+	db $10,$00,$1d,$60
+	db $10,$08,$1c,$60
+	db $18,$00,$0d,$60
+	db $18,$08,$0c,$60
+
+FrameBlock0e:
+	db $04
+	db $20,$00,$0c,$00
+	db $20,$08,$0d,$00
+	db $28,$00,$1c,$00
+	db $28,$08,$1d,$00
+
+FrameBlock0f:
+	db $04
+	db $30,$00,$1d,$60
+	db $30,$08,$1c,$60
+	db $38,$00,$0d,$60
+	db $38,$08,$0c,$60
+
+FrameBlock10:
+	db $08
+	db $00,$00,$0e,$00
+	db $00,$08,$0f,$00
+	db $08,$00,$1e,$00
+	db $08,$08,$1f,$00
+	db $00,$10,$0f,$20
+	db $00,$18,$0e,$20
+	db $08,$10,$1f,$20
+	db $08,$18,$1e,$20
+
+FrameBlock11:
+	db $08
+	db $00,$00,$0e,$00
+	db $00,$08,$0f,$00
+	db $08,$00,$1e,$00
+	db $08,$08,$1f,$00
+	db $00,$20,$0f,$20
+	db $00,$28,$0e,$20
+	db $08,$20,$1f,$20
+	db $08,$28,$1e,$20
+
+FrameBlock12:
+	db $03
+	db $00,$00,$37,$00
+	db $08,$10,$37,$00
+	db $00,$20,$37,$00
+
+FrameBlock13:
+	db $04
+	db $00,$00,$36,$00
+	db $00,$08,$36,$20
+	db $08,$00,$36,$40
+	db $08,$08,$36,$60
+
+FrameBlock14:
+	db $08
+	db $00,$10,$28,$00
+	db $00,$18,$28,$20
+	db $08,$10,$38,$00
+	db $08,$18,$38,$20
+	db $00,$20,$36,$00
+	db $00,$28,$36,$20
+	db $08,$20,$36,$40
+	db $08,$28,$36,$60
+
+FrameBlock15:
+	db $0c
+	db $00,$00,$28,$00
+	db $00,$08,$28,$20
+	db $08,$00,$38,$00
+	db $08,$08,$38,$20
+	db $00,$10,$29,$00
+	db $00,$18,$29,$20
+	db $08,$10,$39,$00
+	db $08,$18,$39,$20
+	db $00,$20,$28,$00
+	db $00,$28,$28,$20
+	db $08,$20,$38,$00
+	db $08,$28,$38,$20
+
+FrameBlock16:
+	db $08
+	db $00,$00,$29,$00
+	db $00,$08,$29,$20
+	db $08,$00,$39,$00
+	db $08,$08,$39,$20
+	db $00,$20,$29,$00
+	db $00,$28,$29,$20
+	db $08,$20,$39,$00
+	db $08,$28,$39,$20
+
+FrameBlock17:
+	db $04
+	db $00,$00,$08,$00
+	db $00,$08,$09,$00
+	db $08,$00,$18,$00
+	db $08,$08,$19,$00
+
+FrameBlock18:
+	db $01
+	db $18,$00,$45,$60
+
+FrameBlock19:
+	db $02
+	db $18,$08,$45,$00
+	db $10,$08,$46,$60
+
+FrameBlock1a:
+	db $02
+	db $10,$10,$45,$60
+	db $18,$10,$46,$00
+
+FrameBlock1b:
+	db $02
+	db $10,$18,$45,$00
+	db $08,$18,$46,$60
+
+FrameBlock1c:
+	db $02
+	db $08,$20,$45,$60
+	db $10,$20,$46,$00
+
+FrameBlock1d:
+	db $02
+	db $08,$28,$45,$00
+	db $00,$28,$46,$60
+
+FrameBlock1e:
+	db $02
+	db $00,$30,$45,$60
+	db $08,$30,$46,$00
+
+FrameBlock75:
+	db $04
+	db $00,$00,$43,$00
+	db $00,$08,$43,$20
+	db $08,$00,$22,$00
+	db $08,$08,$43,$60
+
+FrameBlock1f:
+	db $02
+	db $00,$00,$03,$00
+	db $00,$30,$03,$20
+
+FrameBlock20:
+	db $06
+	db $00,$00,$03,$00
+	db $00,$30,$03,$20
+	db $08,$08,$03,$00
+	db $08,$28,$03,$20
+	db $08,$00,$13,$00
+	db $08,$30,$13,$20
+
+FrameBlock21:
+	db $0c
+	db $00,$00,$03,$00
+	db $00,$30,$03,$20
+	db $08,$08,$03,$00
+	db $08,$28,$03,$20
+	db $08,$00,$13,$00
+	db $08,$30,$13,$20
+	db $10,$10,$03,$00
+	db $10,$20,$03,$20
+	db $10,$08,$13,$00
+	db $10,$28,$13,$20
+	db $10,$00,$03,$00
+	db $10,$30,$03,$20
+
+FrameBlock22:
+	db $13
+	db $00,$00,$03,$00
+	db $08,$00,$13,$00
+	db $10,$00,$03,$00
+	db $18,$00,$13,$00
+	db $08,$08,$03,$00
+	db $10,$08,$13,$00
+	db $18,$08,$03,$00
+	db $10,$10,$03,$00
+	db $18,$10,$13,$00
+	db $18,$18,$03,$00
+	db $10,$20,$03,$20
+	db $18,$20,$13,$20
+	db $08,$28,$03,$20
+	db $10,$28,$13,$20
+	db $18,$28,$03,$20
+	db $00,$30,$03,$20
+	db $08,$30,$13,$20
+	db $10,$30,$03,$20
+	db $18,$30,$13,$20
+
+FrameBlock23:
+	db $04
+	db $00,$00,$0a,$00
+	db $00,$08,$0b,$00
+	db $08,$00,$1a,$00
+	db $08,$08,$1b,$00
+
+FrameBlock24:
+	db $02
+	db $08,$00,$0a,$00
+	db $08,$08,$0b,$00
+
+FrameBlock25:
+	db $0c
+	db $10,$00,$0a,$00
+	db $10,$08,$0b,$00
+	db $18,$00,$1a,$00
+	db $18,$08,$1b,$00
+	db $00,$10,$0a,$00
+	db $00,$18,$0b,$00
+	db $08,$10,$1a,$00
+	db $08,$18,$1b,$00
+	db $08,$20,$0a,$00
+	db $08,$28,$0b,$00
+	db $10,$20,$1a,$00
+	db $10,$28,$1b,$00
+
+FrameBlock26:
+	db $04
+	db $00,$10,$44,$00
+	db $00,$18,$44,$20
+	db $08,$10,$44,$40
+	db $08,$18,$44,$60
+
+FrameBlock27:
+	db $05
+	db $08,$08,$44,$00
+	db $08,$10,$44,$20
+	db $10,$08,$44,$40
+	db $10,$10,$44,$60
+	db $00,$18,$47,$00
+
+FrameBlock28:
+	db $06
+	db $10,$00,$44,$00
+	db $10,$08,$44,$20
+	db $18,$00,$44,$40
+	db $18,$08,$44,$60
+	db $08,$10,$47,$00
+	db $02,$16,$47,$00
+
+FrameBlock29:
+	db $04
+	db $18,$00,$47,$00
+	db $12,$06,$47,$00
+	db $0c,$0c,$47,$00
+	db $06,$12,$47,$00
+
+FrameBlock2a:
+	db $04
+	db $00,$00,$44,$00
+	db $00,$08,$44,$20
+	db $08,$00,$44,$40
+	db $08,$08,$44,$60
+
+FrameBlock2b:
+	db $02
+	db $06,$02,$47,$00
+	db $00,$08,$47,$00
+
+FrameBlock2c:
+	db $01
+	db $a0,$00,$4d,$00
+
+FrameBlock2d:
+	db $08
+	db $00,$00,$26,$00
+	db $00,$08,$27,$00
+	db $08,$00,$36,$00
+	db $08,$08,$37,$00
+	db $10,$00,$28,$00
+	db $10,$08,$29,$00
+	db $18,$00,$38,$00
+	db $18,$08,$39,$00
+
+FrameBlock2e:
+	db $08
+	db $00,$00,$27,$20
+	db $00,$08,$26,$20
+	db $08,$00,$37,$20
+	db $08,$08,$36,$20
+	db $10,$00,$29,$20
+	db $10,$08,$28,$20
+	db $18,$00,$39,$20
+	db $18,$08,$38,$20
+
+FrameBlock2f:
+	db $04
+	db $00,$00,$0c,$00
+	db $00,$08,$0d,$00
+	db $08,$00,$0c,$40
+	db $08,$08,$0d,$40
+
+FrameBlock30:
+	db $04
+	db $00,$00,$44,$00
+	db $00,$08,$44,$20
+	db $08,$00,$44,$40
+	db $08,$08,$44,$60
+
+FrameBlock31:
+	db $01
+	db $00,$00,$45,$00
+
+FrameBlock32:
+	db $07
+	db $00,$00,$4d,$00
+	db $00,$08,$2f,$00
+	db $00,$10,$4d,$20
+	db $08,$00,$4e,$00
+	db $08,$08,$07,$00
+	db $08,$10,$4e,$20
+	db $10,$08,$3f,$00
+
+FrameBlock33:
+	db $07
+	db $00,$08,$3f,$40
+	db $08,$00,$4e,$40
+	db $08,$08,$07,$40
+	db $08,$10,$4e,$60
+	db $10,$00,$4d,$40
+	db $10,$08,$2f,$40
+	db $10,$10,$4d,$60
+
+FrameBlock34:
+	db $01
+	db $a0,$00,$00,$10
+
+FrameBlock35:
+	db $06
+	db $00,$00,$2a,$00
+	db $00,$08,$2b,$00
+	db $08,$00,$3a,$00
+	db $10,$00,$3a,$40
+	db $18,$00,$2a,$40
+	db $18,$08,$2b,$40
+
+FrameBlock36:
+	db $04
+	db $00,$00,$00,$00
+	db $00,$08,$01,$00
+	db $08,$00,$10,$00
+	db $08,$08,$11,$00
+
+FrameBlock37:
+	db $04
+	db $00,$00,$01,$a0
+	db $00,$08,$00,$a0
+	db $08,$00,$11,$a0
+	db $08,$08,$10,$a0
+
+FrameBlock38:
+	db $04
+	db $00,$00,$0a,$00
+	db $00,$08,$0b,$00
+	db $08,$00,$1a,$00
+	db $08,$08,$1b,$00
+
+FrameBlock39:
+	db $04
+	db $00,$00,$0b,$20
+	db $00,$08,$0a,$20
+	db $08,$00,$1b,$20
+	db $08,$08,$1a,$20
+
+FrameBlock3a:
+	db $04
+	db $20,$00,$05,$00
+	db $20,$08,$05,$20
+	db $28,$00,$15,$00
+	db $28,$08,$15,$20
+
+FrameBlock3b:
+	db $05
+	db $18,$00,$04,$00
+	db $18,$08,$04,$20
+	db $20,$00,$14,$00
+	db $20,$08,$14,$20
+	db $28,$04,$41,$00
+
+FrameBlock3c:
+	db $06
+	db $10,$00,$05,$00
+	db $10,$08,$05,$20
+	db $18,$00,$15,$00
+	db $18,$08,$15,$20
+	db $20,$04,$42,$00
+	db $28,$04,$42,$00
+
+FrameBlock3d:
+	db $07
+	db $08,$00,$04,$00
+	db $08,$08,$04,$20
+	db $10,$00,$14,$00
+	db $10,$08,$14,$20
+	db $18,$04,$41,$00
+	db $20,$04,$41,$00
+	db $28,$04,$41,$00
+
+FrameBlock3e:
+	db $08
+	db $00,$00,$05,$00
+	db $00,$08,$05,$20
+	db $08,$00,$15,$00
+	db $08,$08,$15,$20
+	db $10,$04,$42,$00
+	db $18,$04,$42,$00
+	db $20,$04,$42,$00
+	db $28,$04,$42,$00
+
+FrameBlock3f:
+	db $08
+	db $00,$00,$04,$00
+	db $00,$08,$04,$20
+	db $08,$00,$14,$00
+	db $08,$08,$14,$20
+	db $10,$04,$41,$00
+	db $18,$04,$41,$00
+	db $20,$04,$41,$00
+	db $28,$04,$41,$00
+
+FrameBlock40:
+	db $03
+	db $00,$00,$3d,$00
+	db $00,$08,$3d,$00
+	db $08,$08,$3d,$00
+
+FrameBlock41:
+	db $04
+	db $00,$00,$06,$00
+	db $00,$08,$06,$20
+	db $08,$00,$16,$00
+	db $08,$08,$17,$00
+
+FrameBlock42:
+	db $0b
+	db $00,$10,$42,$00
+	db $08,$00,$42,$00
+	db $08,$08,$42,$00
+	db $08,$10,$42,$00
+	db $08,$18,$42,$00
+	db $08,$20,$42,$00
+	db $10,$10,$42,$00
+	db $18,$08,$42,$00
+	db $18,$18,$42,$00
+	db $20,$00,$42,$00
+	db $20,$20,$42,$00
+
+FrameBlock43:
+	db $0b
+	db $00,$10,$41,$00
+	db $08,$00,$41,$00
+	db $08,$08,$41,$00
+	db $08,$10,$41,$00
+	db $08,$18,$41,$00
+	db $08,$20,$41,$00
+	db $10,$10,$41,$00
+	db $18,$08,$41,$00
+	db $18,$18,$41,$00
+	db $20,$00,$41,$00
+	db $20,$20,$41,$00
+
+FrameBlock44:
+	db $04
+	db $00,$00,$49,$00
+	db $00,$28,$49,$00
+	db $28,$00,$49,$00
+	db $28,$28,$49,$00
+
+FrameBlock45:
+	db $04
+	db $00,$00,$49,$00
+	db $00,$18,$49,$00
+	db $18,$00,$49,$00
+	db $18,$18,$49,$00
+
+FrameBlock46:
+	db $04
+	db $00,$00,$49,$00
+	db $00,$08,$49,$00
+	db $08,$00,$49,$00
+	db $08,$08,$49,$00
+
+FrameBlock47:
+	db $04
+	db $00,$00,$43,$00
+	db $00,$08,$43,$20
+	db $08,$00,$43,$40
+	db $08,$08,$43,$60
+
+SmallBlackCircleFrameBlock:
+	db $04
+	db $08,$08,$33,$00
+	db $08,$10,$33,$20
+	db $10,$08,$33,$40
+	db $10,$10,$33,$60
+
+LargeBlockCircleFrameBlock:
+	db $10
+	db $00,$00,$22,$00
+	db $00,$08,$23,$00
+	db $00,$10,$23,$20
+	db $00,$18,$22,$20
+	db $08,$00,$32,$00
+	db $08,$08,$43,$00
+	db $08,$10,$43,$20
+	db $08,$18,$32,$20
+	db $10,$00,$32,$40
+	db $10,$08,$43,$40
+	db $10,$10,$43,$60
+	db $10,$18,$32,$60
+	db $18,$00,$22,$40
+	db $18,$08,$23,$40
+	db $18,$10,$23,$60
+	db $18,$18,$22,$60
+
+FrameBlock71:
+	db $10
+	db $00,$00,$22,$00
+	db $00,$08,$3b,$00
+	db $00,$10,$23,$20
+	db $00,$18,$22,$20
+	db $08,$00,$32,$00
+	db $08,$08,$43,$00
+	db $08,$10,$43,$20
+	db $08,$18,$32,$20
+	db $10,$00,$32,$40
+	db $10,$08,$43,$40
+	db $10,$10,$43,$60
+	db $10,$18,$32,$60
+	db $18,$00,$22,$40
+	db $18,$08,$23,$40
+	db $18,$10,$23,$60
+	db $18,$18,$22,$60
+
+FrameBlock72:
+	db $0c
+	db $00,$00,$32,$00
+	db $00,$08,$43,$00
+	db $00,$10,$43,$20
+	db $00,$18,$32,$20
+	db $08,$00,$32,$40
+	db $08,$08,$43,$40
+	db $08,$10,$43,$60
+	db $08,$18,$32,$60
+	db $10,$00,$22,$40
+	db $10,$08,$23,$40
+	db $10,$10,$23,$60
+	db $10,$18,$22,$60
+
+FrameBlock73:
+	db $08
+	db $00,$00,$32,$40
+	db $00,$08,$43,$40
+	db $00,$10,$43,$60
+	db $00,$18,$32,$60
+	db $08,$00,$22,$40
+	db $08,$08,$23,$40
+	db $08,$10,$23,$60
+	db $08,$18,$22,$60
+
+FrameBlock74:
+	db $04
+	db $00,$00,$22,$40
+	db $00,$08,$23,$40
+	db $00,$10,$23,$60
+	db $00,$18,$22,$60
+
+FrameBlock4a:
+	db $04
+	db $08,$18,$4c,$20
+	db $20,$08,$4b,$00
+	db $30,$20,$4c,$00
+	db $18,$30,$4b,$40
+
+FrameBlock4b:
+	db $04
+	db $00,$18,$4c,$00
+	db $20,$00,$4b,$40
+	db $38,$20,$4c,$20
+	db $18,$38,$4b,$00
+
+FrameBlock4c:
+	db $04
+	db $10,$08,$4a,$40
+	db $30,$10,$4a,$00
+	db $28,$30,$4a,$20
+	db $08,$28,$4a,$60
+
+FrameBlock4d:
+	db $04
+	db $08,$00,$4a,$20
+	db $38,$08,$4a,$60
+	db $30,$38,$4a,$40
+	db $00,$30,$4a,$00
+
+FrameBlock4e:
+	db $08
+	db $00,$30,$44,$00
+	db $00,$38,$44,$20
+	db $08,$30,$44,$40
+	db $08,$38,$44,$60
+	db $26,$0a,$44,$00
+	db $26,$12,$44,$20
+	db $2e,$0a,$44,$40
+	db $2e,$12,$44,$60
+
+FrameBlock4f:
+	db $0c
+	db $0e,$22,$44,$00
+	db $0e,$2a,$44,$20
+	db $16,$22,$44,$40
+	db $16,$2a,$44,$60
+	db $06,$32,$47,$00
+	db $00,$38,$47,$00
+	db $1a,$16,$44,$00
+	db $1a,$1e,$44,$20
+	db $22,$16,$44,$40
+	db $22,$1e,$44,$60
+	db $30,$08,$47,$00
+	db $2a,$0e,$47,$00
+
+FrameBlock50:
+	db $08
+	db $06,$32,$47,$00
+	db $00,$38,$47,$00
+	db $12,$26,$47,$00
+	db $0c,$2c,$47,$00
+	db $1e,$1a,$47,$00
+	db $18,$20,$47,$00
+	db $2a,$0e,$47,$00
+	db $24,$14,$47,$00
+
+FrameBlock51:
+	db $08
+	db $00,$00,$35,$20
+	db $08,$00,$35,$40
+	db $10,$00,$35,$00
+	db $18,$00,$35,$60
+	db $00,$40,$35,$00
+	db $08,$40,$35,$60
+	db $10,$40,$35,$20
+	db $18,$40,$35,$40
+
+FrameBlock52:
+	db $04
+	db $00,$00,$2a,$00
+	db $00,$08,$2b,$00
+	db $08,$00,$3a,$00
+	db $08,$08,$3b,$00
+
+FrameBlock53:
+	db $03
+	db $00,$00,$3f,$00
+	db $00,$08,$3f,$00
+	db $08,$06,$3f,$00
+
+FrameBlock54:
+	db $04
+	db $00,$00,$0e,$00
+	db $00,$08,$0e,$20
+	db $08,$00,$0f,$00
+	db $08,$08,$0f,$20
+
+FrameBlock55:
+	db $03
+	db $10,$00,$2c,$00
+	db $10,$08,$3c,$00
+	db $10,$10,$2d,$00
+
+FrameBlock56:
+	db $06
+	db $10,$10,$31,$00
+	db $10,$18,$31,$00
+	db $08,$10,$2c,$00
+	db $08,$18,$3c,$00
+	db $08,$20,$2d,$00
+	db $10,$20,$2d,$00
+
+FrameBlock57:
+	db $09
+	db $08,$20,$31,$00
+	db $10,$20,$31,$00
+	db $08,$28,$31,$00
+	db $10,$28,$31,$00
+	db $00,$20,$2c,$00
+	db $00,$28,$3c,$00
+	db $00,$30,$2d,$00
+	db $08,$30,$2d,$00
+	db $10,$30,$2d,$00
+
+FrameBlock58:
+	db $07
+	db $00,$00,$46,$00
+	db $08,$02,$47,$00
+	db $10,$03,$48,$00
+	db $18,$04,$48,$00
+	db $20,$05,$48,$00
+	db $28,$05,$48,$00
+	db $30,$05,$48,$00
+
+FrameBlock59:
+	db $01
+	db $00,$00,$42,$00
+
+FrameBlock5a:
+	db $0c
+	db $00,$00,$24,$00
+	db $00,$08,$25,$00
+	db $08,$00,$34,$00
+	db $00,$10,$25,$20
+	db $00,$18,$24,$20
+	db $08,$18,$34,$20
+	db $10,$00,$34,$40
+	db $18,$00,$24,$40
+	db $18,$08,$25,$40
+	db $10,$18,$34,$60
+	db $18,$10,$25,$60
+	db $18,$18,$24,$60
+
+FrameBlock5b:
+	db $04
+	db $00,$00,$43,$00
+	db $00,$08,$43,$20
+	db $08,$00,$43,$40
+	db $08,$08,$43,$60
+
+FrameBlock5c:
+	db $08
+	db $00,$00,$49,$00
+	db $02,$08,$49,$00
+	db $18,$00,$49,$00
+	db $10,$10,$49,$00
+	db $08,$00,$43,$00
+	db $08,$08,$43,$20
+	db $10,$00,$43,$40
+	db $10,$08,$43,$60
+
+FrameBlock5d:
+	db $0b
+	db $00,$00,$49,$00
+	db $18,$02,$49,$00
+	db $14,$10,$49,$00
+	db $08,$00,$43,$00
+	db $00,$08,$43,$20
+	db $10,$00,$43,$40
+	db $10,$08,$43,$60
+	db $04,$08,$43,$00
+	db $04,$10,$43,$20
+	db $0c,$08,$43,$40
+	db $0c,$10,$43,$60
+
+FrameBlock5e:
+	db $0f
+	db $00,$08,$49,$00
+	db $08,$10,$49,$00
+	db $20,$00,$49,$00
+	db $08,$00,$43,$00
+	db $08,$08,$43,$20
+	db $10,$00,$43,$40
+	db $10,$08,$43,$60
+	db $10,$10,$43,$00
+	db $10,$18,$43,$20
+	db $18,$10,$43,$40
+	db $18,$18,$43,$60
+	db $20,$08,$43,$00
+	db $20,$10,$43,$20
+	db $28,$08,$43,$40
+	db $28,$10,$43,$60
+
+FrameBlock5f:
+	db $04
+	db $00,$00,$49,$00
+	db $00,$10,$49,$00
+	db $00,$20,$49,$00
+	db $00,$30,$49,$00
+
+FrameBlock60:
+	db $08
+	db $00,$00,$49,$00
+	db $00,$10,$49,$00
+	db $00,$20,$49,$00
+	db $00,$30,$49,$00
+	db $08,$08,$49,$00
+	db $08,$18,$49,$00
+	db $08,$28,$49,$00
+	db $08,$38,$49,$00
+
+FrameBlock61:
+	db $0c
+	db $00,$00,$49,$00
+	db $00,$10,$49,$00
+	db $00,$20,$49,$00
+	db $00,$30,$49,$00
+	db $08,$08,$49,$00
+	db $08,$18,$49,$00
+	db $08,$28,$49,$00
+	db $08,$38,$49,$00
+	db $10,$00,$49,$00
+	db $10,$10,$49,$00
+	db $10,$20,$49,$00
+	db $10,$30,$49,$00
+
+FrameBlock62:
+	db $0f
+	db $00,$00,$49,$00
+	db $00,$10,$49,$00
+	db $00,$20,$49,$00
+	db $00,$30,$49,$00
+	db $08,$08,$49,$00
+	db $08,$18,$49,$00
+	db $08,$28,$49,$00
+	db $08,$38,$49,$00
+	db $10,$00,$49,$00
+	db $10,$10,$49,$00
+	db $10,$20,$49,$00
+	db $10,$30,$49,$00
+	db $18,$08,$49,$00
+	db $18,$18,$49,$00
+	db $18,$28,$49,$00
+	db $18,$38,$49,$00 ; unused
+
+FrameBlock63:
+	db $06
+	db $10,$00,$26,$00
+	db $10,$08,$27,$00
+	db $08,$10,$26,$00
+	db $08,$18,$27,$00
+	db $00,$20,$26,$00
+	db $00,$28,$27,$00
+
+FrameBlock64:
+	db $06
+	db $18,$00,$27,$00
+	db $10,$08,$26,$00
+	db $10,$10,$27,$00
+	db $08,$18,$26,$00
+	db $08,$20,$27,$00
+	db $00,$28,$26,$00
+
+FrameBlock65:
+	db $06
+	db $00,$00,$1c,$00
+	db $00,$08,$1d,$00
+	db $10,$00,$1c,$00
+	db $10,$08,$1d,$00
+	db $20,$00,$1c,$00
+	db $20,$08,$1d,$00
+
+FrameBlock66:
+	db $02
+	db $00,$00,$03,$00
+	db $08,$00,$13,$00
+
+FrameBlock67:
+	db $01
+	db $00,$00,$03,$00
+
+FrameBlock68:
+	db $04
+	db $00,$00,$03,$00
+	db $00,$08,$03,$20
+	db $08,$00,$13,$00
+	db $08,$08,$13,$20
+
+FrameBlock69:
+	db $01
+	db $00,$00,$06,$00
+
+FrameBlock6a:
+	db $08
+	db $00,$00,$2e,$00
+	db $00,$30,$2e,$20
+	db $30,$00,$2e,$40
+	db $30,$30,$2e,$60
+	db $00,$18,$2f,$00
+	db $30,$18,$2f,$40
+	db $18,$00,$3e,$00
+	db $18,$30,$3e,$20
+
+FrameBlock6b:
+	db $08
+	db $00,$00,$2e,$00
+	db $00,$20,$2e,$20
+	db $20,$00,$2e,$40
+	db $20,$20,$2e,$60
+	db $00,$10,$2f,$00
+	db $20,$10,$2f,$40
+	db $10,$00,$3e,$00
+	db $10,$20,$3e,$20
+
+FrameBlock6c:
+	db $08
+	db $00,$00,$2e,$00
+	db $00,$10,$2e,$20
+	db $10,$00,$2e,$40
+	db $10,$10,$2e,$60
+	db $00,$08,$2f,$00
+	db $10,$08,$2f,$40
+	db $08,$00,$3e,$00
+	db $08,$10,$3e,$20
+
+FrameBlock6d:
+	db $02
+	db $00,$00,$1e,$00
+	db $00,$08,$1f,$00
+
+FrameBlock6e:
+	db $04
+	db $00,$00,$48,$00
+	db $00,$08,$48,$20
+	db $08,$00,$12,$00
+	db $08,$08,$12,$20
+
+FrameBlock6f:
+	db $04
+	db $00,$00,$4a,$00
+	db $00,$08,$07,$00
+	db $08,$00,$16,$00
+	db $08,$08,$17,$00
+
+FrameBlock70:
+	db $04
+	db $00,$00,$07,$20
+	db $00,$08,$4a,$20
+	db $08,$00,$17,$20
+	db $08,$08,$16,$20
+
+FrameBlock76:
+	db $07
+	db $00,$10,$2f,$00
+	db $01,$08,$2f,$00
+	db $01,$18,$2f,$00
+	db $02,$00,$2e,$00
+	db $02,$20,$2e,$20
+	db $0a,$00,$3e,$00
+	db $0a,$20,$3e,$20
+
+FrameBlock77:
+	db $04
+	db $00,$02,$4b,$00
+	db $00,$0a,$4c,$00
+	db $08,$00,$4c,$60
+	db $08,$08,$4b,$60
+
+FrameBlock78:
+	db $01
+	db $00,$00,$4d,$00
+
+FrameBlock79:
+	db $01
+	db $00,$00,$4e,$00
+
+; 3 icicles forming a stalactite
+FrameBlock7a:
+	db $06
+	db $00,$00,$03,$00
+	db $08,$00,$13,$00
+	db $00,$08,$03,$00
+	db $08,$08,$13,$00
+	db $0c,$04,$03,$00
+	db $14,$04,$13,$00
+
+; wooden log
+FrameBlock7b:
+	db $0b
+	db $00,$08,$33,$00
+	db $00,$10,$33,$20
+	db $08,$05,$32,$00
+	db $08,$08,$43,$00
+	db $08,$10,$32,$60
+	db $0f,$05,$2d,$20
+	db $0f,$0d,$2d,$00
+	db $10,$05,$33,$40
+	db $10,$0d,$33,$60
+	db $02,$17,$2b,$00
+	db $00,$03,$06,$00
+
+; 3 water droplets tightly packed
+FrameBlock7c:
+	db $03
+	db $02,$02,$40,$00
+	db $06,$0a,$40,$00
+	db $0e,$0a,$40,$00
+
+; 3 water droplets tightly packed slightly off to the side
+FrameBlock7d:
+	db $03
+	db $00,$04,$40,$00
+	db $08,$0c,$40,$00
+	db $10,$0c,$40,$00
+
+FrameBlockBaseCoords:
+	db $10,$68
+	db $10,$70
+	db $10,$78
+	db $10,$80
+	db $10,$88
+	db $10,$90
+	db $10,$98
+	db $18,$68
+	db $18,$70
+	db $18,$78
+	db $34,$28
+	db $18,$80
+	db $18,$88
+	db $18,$98
+	db $20,$68
+	db $20,$70
+	db $20,$78
+	db $20,$80
+	db $20,$88
+	db $20,$90
+	db $20,$98
+	db $28,$68
+	db $28,$70
+	db $28,$78
+	db $28,$80
+	db $28,$88
+	db $30,$68
+	db $30,$70
+	db $30,$78
+	db $30,$80
+	db $30,$90
+	db $30,$98
+	db $38,$68
+	db $38,$78
+	db $38,$80
+	db $38,$88
+	db $40,$68
+	db $40,$70
+	db $40,$78
+	db $40,$80
+	db $40,$88
+	db $40,$98
+	db $10,$60
+	db $18,$60
+	db $20,$60
+	db $28,$60
+	db $30,$60
+	db $40,$60
+	db $58,$28
+	db $43,$38
+	db $33,$48
+	db $20,$58
+	db $32,$78
+	db $58,$58
+	db $2C,$6C
+	db $34,$80
+	db $48,$70
+	db $42,$36
+	db $38,$44
+	db $40,$52
+	db $48,$60
+	db $3E,$6E
+	db $28,$7C
+	db $28,$8A
+	db $50,$3C
+	db $48,$50
+	db $40,$64
+	db $38,$38
+	db $50,$30
+	db $50,$38
+	db $50,$40
+	db $50,$48
+	db $50,$50
+	db $48,$58
+	db $50,$44
+	db $48,$48
+	db $48,$4C
+	db $40,$50
+	db $40,$54
+	db $38,$58
+	db $38,$5C
+	db $30,$64
+	db $48,$40
+	db $48,$39
+	db $24,$88
+	db $24,$70
+	db $1C,$70
+	db $1C,$88
+	db $34,$68
+	db $34,$88
+	db $68,$50
+	db $60,$50
+	db $68,$60
+	db $58,$50
+	db $60,$60
+	db $68,$40
+	db $40,$40
+	db $38,$40
+	db $0B,$60
+	db $44,$48
+	db $40,$14
+	db $48,$1C
+	db $50,$24
+	db $4C,$24
+	db $10,$62
+	db $12,$62
+	db $12,$60
+	db $20,$72
+	db $22,$72
+	db $22,$70
+	db $28,$62
+	db $50,$0A
+	db $52,$0A
+	db $38,$30
+	db $40,$48
+	db $30,$48
+	db $40,$30
+	db $30,$40
+	db $38,$48
+	db $40,$4A
+	db $48,$4B
+	db $50,$4C
+	db $58,$4D
+	db $60,$4D
+	db $68,$4D
+	db $38,$10
+	db $50,$10
+	db $38,$28
+	db $48,$18
+	db $40,$20
+	db $48,$20
+	db $40,$3C
+	db $38,$50
+	db $28,$64
+	db $1C,$90
+	db $24,$80
+	db $2C,$70
+	db $30,$38
+	db $10,$50
+	db $3C,$40
+	db $40,$58
+	db $30,$58
+	db $58,$48
+	db $50,$58
+	db $48,$68
+	db $40,$18
+	db $28,$58
+	db $40,$38
+	db $48,$38
+	db $08,$70
+	db $44,$1C
+	db $3C,$58
+	db $38,$60
+	db $08,$60
+	db $38,$70
+	db $38,$6C
+	db $38,$64
+	db $1C,$74
+	db $2E,$74
+	db $34,$50
+	db $2F,$60
+	db $31,$70
+	db $4C,$30
+	db $3B,$40
+	db $2D,$50
+	db $26,$60
+	db $2D,$70
+	db $28,$50
+	db $1E,$60
+	db $29,$70
+	db $16,$60
+	db $14,$58
+	db $12,$54
+	db $14,$50
+	db $18,$4C
+	db $1C,$48
+	db $48,$28
+
+FrameBlock00:
+	db $00,$00

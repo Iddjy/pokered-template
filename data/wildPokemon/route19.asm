@@ -1,0 +1,13 @@
+Route19Mons:
+	db $00
+	db $05
+	dbw 5, TENTACOOL
+	dbw 10, TENTACOOL
+	dbw 15, TENTACOOL
+	dbw 5, TENTACOOL
+	dbw 10, TENTACOOL
+	dbw 15, TENTACOOL
+	dbw 20, TENTACOOL
+	dbw 30, TENTACOOL
+	dbw 35, TENTACOOL
+	dbw 40, TENTACOOL

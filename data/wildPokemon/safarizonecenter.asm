@@ -1,0 +1,27 @@
+ZoneMonsCenter:
+	db $1E
+	IF DEF(_RED)
+		dbw 22, NIDORAN_M
+		dbw 25, RHYHORN
+		dbw 22, VENONAT
+		dbw 24, EXEGGCUTE
+		dbw 31, NIDORINO
+		dbw 25, EXEGGCUTE
+		dbw 31, NIDORINA
+		dbw 30, PARASECT
+		dbw 23, SCYTHER
+		dbw 23, CHANSEY
+	ENDC
+	IF DEF(_BLUE)
+		dbw 22, NIDORAN_F
+		dbw 25, RHYHORN
+		dbw 22, VENONAT
+		dbw 24, EXEGGCUTE
+		dbw 31, NIDORINA
+		dbw 25, EXEGGCUTE
+		dbw 31, NIDORINO
+		dbw 30, PARASECT
+		dbw 23, PINSIR
+		dbw 23, CHANSEY
+	ENDC
+	db $00

@@ -1,0 +1,16 @@
+BattleFacilityShopItems:
+	db 13
+	db MASTER_BALL
+	db BOTTLE_CAP
+	db RARE_CANDY
+	db PP_UP
+	db UPGRADE
+	db METAL_COAT
+	db LINKING_CORD
+	db DUBIOUS_DISC
+	db MAX_REVIVE
+	db MAX_ELIXER
+	db MAX_ETHER
+	db ELIXER
+	db ETHER
+	db $FF

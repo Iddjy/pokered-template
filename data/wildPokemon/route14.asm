@@ -1,0 +1,27 @@
+Route14Mons:
+	db $0F
+	IF DEF(_RED)
+		dbw 24, ODDISH
+		dbw 26, PIDGEY
+		dbw 23, DITTO
+		dbw 24, VENONAT
+		dbw 22, ODDISH
+		dbw 26, VENONAT
+		dbw 26, ODDISH
+		dbw 30, GLOOM
+		dbw 28, PIDGEOTTO
+		dbw 30, PIDGEOTTO
+	ENDC
+	IF DEF(_BLUE)
+		dbw 24, BELLSPROUT
+		dbw 26, PIDGEY
+		dbw 23, DITTO
+		dbw 24, VENONAT
+		dbw 22, BELLSPROUT
+		dbw 26, VENONAT
+		dbw 26, BELLSPROUT
+		dbw 30, WEEPINBELL
+		dbw 28, PIDGEOTTO
+		dbw 30, PIDGEOTTO
+	ENDC
+	db $00
