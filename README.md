@@ -78,7 +78,7 @@ I must really extend the biggest thanks to them for their stellar work on this, 
 
 ## Example use
 
-As an example of what can be done with it, I included an IPS patch of a ROM hack I made based on it.
+As an example of what can be done with it, I included an [IPS patch](pokered-expanded.ips) of a ROM hack I made based on it.
 
 To be clear, the patch does **not** correspond to the ROM this repo builds (what would be the point?), it's for a ROM hack whose source code is not public but is based on this repo.
 
