@@ -238,7 +238,7 @@
 |SPHEAL            	|Omega (spriters-resources)                                                                                                    |veekun                                   |
 |SEALEO            	|Blue Emerald                                                                                                                  |Iddjy                                    |
 |WALREIN           	|ubasuteyama                                                                                                                   |veekun                                   |
-|TURTWIG           	|                                                                                                                              |veekun                                   |
+|TURTWIG           	|???                                                                                                                           |veekun                                   |
 |GROTLE            	|Pat Ackerman                                                                                                                  |veekun                                   |
 |TORTERRA          	|Pat Ackerman                                                                                                                  |veekun                                   |
 |CHIMCHAR          	|SharkGuy01                                                                                                                    |Iddjy                                    |
