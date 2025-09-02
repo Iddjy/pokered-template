@@ -15,7 +15,7 @@ Here are the main changes I included in this template:
 - **expanded pokedex:** pokemon species IDs are now stored over 2 bytes, allowing up to 65534 different species. Of course, the ROM can't contain that many species. The limit you'll hit will be the space taken by the pokemon sprites. With 402 species, and all the modifications I made, there is still quite a bit of room left in the ROM, but I think something like 500 might start to be a bit too much. Of course it all depends on the rest of the content of the ROM (eg if you reduce the number and/or size of maps, that leaves more room for sprites).
 - **special split:** the special stat is now split into special attack and special defense. I think this is necessary to implement pokemon from gen 2 onwards, because arbitrarily choosing their special stat feels wrong to me. Plus it is a pretty welcome balancing improvement.
 - **move categories:** they are no longer tied to the move type. You can have physical fire moves, special fighting moves etc. I think this is also essential to help replayability of any hack, because it makes so many more pokemon viable and interesting.
-- **learnsets:** I updated the learnsets according to modern versions, but they don't match any version in particular. I gave moves to pokemon if they could learn them in any version, the goal being to have the widest learnsets possible.
+- **learnsets:** I updated the learnsets according to modern versions, but they don't match any version in particular. I gave moves to pokemon if they could learn them in any version, the goal being to have the widest learnsets possible. TM compatibilities are included in this.
 - **trainer parties data structure:** each trainer's team is now specified down to each pokemon's moveset and level.
 - **TMs:** they are now infinite use. I changed some of them so that they teach better moves, with more type diversity. I also changed the TMs given by Gym Leaders because the old ones contained moves that became widely available via level up, so it wouldn't make sense. Gym Leader TMs have always been exclusive moves upon their introduction.
 - **item management:** the bag now has 3 'pockets': items, TMs/HMs, and keys. Since TMs are not consumed upon use now, they would utterly clog the bag, so I gave them their own 'pocket'. Same thing for key items. The standard items pocket still has a capacity of 20 items, but it's much more easily manageable now. I reduced the capacity of the player's PC to 20 since it's sufficient now.
@@ -23,7 +23,7 @@ Here are the main changes I included in this template:
 - **battle mechanics:** things like trapping moves (Wrap etc), freeze, sleep, critical hits, type relations... pretty much all mechanics that changed since gen 1 were updated.
 - **StatExp:** I replaced StatExp with EVs. They work exactly like in modern games.
 - **sound engine:** I merged the 3 sound engines into 1, and adapted pokecrystal's way of reading sound data from any bank so that we're not limited by the size of a single bank for sound data. I also separated pokemon base cries from other SFX, they now have 2-bytes IDs, so that you can have as many as pokemon species.
-- **bugfixes:** I tried to fix pretty much all the bugs that affect battles, plus a few others. The list is too long to put down here, but I think I got all known bugs and maybe some unknown bugs too.
+- **bugfixes:** I tried to fix pretty much all the bugs that affect battles, plus a few others. The list is too long to put down here, but I think I got all known bugs and maybe some unknown bugs too. Hopefully I didn't introduce new ones, I did test it thoroughly, but if you find one, please let me know.
 - **trainer AI:** apart from fixing the numerous bugs, I improved it a bit for standard trainers, and I improved it a lot for Battle Facility trainers. The first AI routine, which initially just prevented trainers from using a non-volatile status move on a pokemon that already has one, now also prevent using any status move that would obviously fail, like CONFUSE RAY on an already confused target, LEECH SEED on a GRASS type, etc. The second AI routine, which initially just encouraged stat-modifying moves on the 2nd turn a pokemon is out, now handles all stats-related effects in a much more consistent way. The third AI routine, the infamous 'Good AI', now encourages double weakness more than single weakness, and conversely discourages double resisted moves more than single resisted ones, and discourages ineffective moves even more. I added several more routines, to handle various other aspects such as STAB, priority moves, finishing off low HP enemy, counter moves, suicide moves, 2-turn moves, healing moves.
 - **in-game trades:** made it so that you can get the other version-exclusives from in-game trades.
 - **naming screen:** more characters are now usable to name yourself, the rival, or your pokemon.
@@ -41,14 +41,14 @@ Here are the extra stuff I added in this template:
 - **Move Tutor:** he's located on Route 23 and requires a TINY MUSHROOM to teach a move. I compiled a list of moves that have been available via various move tutors through the generations.
 - **Hyper Training:** he's located on Route 23 too, requires pokemon to be at least level 50, and a BOTTLE CAP for 1 stat or a GOLDBOTTLECAP for all 6.
 - **daycare moves:** since there is no breeding, this is a roundabout way to implement egg moves. Pokemon compatibilities are the same as in recent games. You have to place the move giver in the daycare, and then speak to the daycare manager and let the move receiver play with the pokemon in the daycare. If the pokemon are compatible and the giver has a move the receiver can learn this way, the move will be taught to the receiver.
-- **new pokemon:** although the template does not alter wild pokemon, you can still get a few new pokemon through evolution (Crobat, Magnezone...) or Fossil resurrection (Tyrunt, Cranidos...). The rest is implemented, you can encounter them with AR codes and use them safely, but they are not available through normal gameplay. Of course I added the 3 new types, but this is so trivial that it hardly bears mentionning.
+- **new pokemon:** although the template does not alter wild pokemon, you can still get a few new pokemon through evolution (Crobat, Magnezone...) or fossil resurrection (Tyrunt, Cranidos...). The rest is implemented, you can encounter them with AR codes and use them safely, but they are not available through normal gameplay. Obviously, I added the 3 new types (Steel, Dark and Fairy).
 - **new evolution methods:** evolution by EVs was added as stand-in for friendship-based evolution, since acquiring EVs is correlated to activities that increase friendship in newer games. I also added evolution based on knowing a certain move.
 - **new cries:** I tried to recreate new pokemon's cries as closely as possible within the limitations of the sound engine. See [Cries](#Cries) for details.
-- **secret passages:** they are ways to teleport from one spot to another by using DIG or an ESCAPE ROPE at specific coordinates in certain maps. I used it in the example ROM (see the IPS patch). There is a commented out example in this repo (see data/special_warps.asm and engine/items/items.asm).
+- **secret passages:** they are ways to teleport from one spot to another by using DIG or an ESCAPE ROPE at specific coordinates in certain maps. I used it in the [example ROM](pokered-expanded.ips), see if you can find them! There is a commented out example in this repo (see [data/special_warps.asm](data/special_warps.asm) and [engine/items/items.asm](engine/items/items.asm)).
 - **alternate forms:** multiple species can share the same dex number, allowing for multiple forms. An example implementation of this is Giratina, or Arceus. Griseous Core and Origin Plate were added to change their forms.
 - **alternate music for maps:** I added a way to have some maps use a different music if certain conditions are met.
 - **alternate encounter table for dark maps:** I added a way to update the encounter table when FLASH is used in a dark map.
-- **battle facility:** as a fun little post-game content, I decided to include a battle facility similar to what you find in recent games. You get a GOLDBOTTLECAP every 50 consecutive wins. Starting at battle 50, special opponents battle you every 10 battle.
+- **battle facility:** as a fun little post-game content, I decided to include a battle facility similar to what you find in recent games. You get a GOLDBOTTLECAP every 50 consecutive wins. Starting at battle 50, special opponents battle you every 10 battles.
 - **souvenir shop:** in Pewter Museum, you can buy Fossils and a few other items, once you unlock them.
 - **legendary pokemon respawning:** static legendaries now respawn after defeating the Champion if you fainted them or ran away from them.
 - **new music:** I made a lower-pitched version of the wild encounter theme.
@@ -70,12 +70,18 @@ Here are the things I did **not** implement:
 
 ## Cries
 
-To recreate new cries as well as possible, I had to add new base cries, because playing with the existing ones was not enough to get good results. I used [this excellent video](https://www.youtube.com/watch?v=gDLpbFXnpeY) by Retro Game Mechanics Explained on YouTube to learn about Gen 1 cries, and I also used [the web page they made](https://rgmechex.com/tech/gen1cries.html) to work on my cries before implementing them in the ROM. I must really extend the biggest thanks to them for their stellar work on this, because without it I could never have created the cries like I did.
+To recreate new cries as well as possible, I had to add new base cries, because playing with the existing ones was not enough to get good results.
+
+I used [this excellent video](https://www.youtube.com/watch?v=gDLpbFXnpeY) by Retro Game Mechanics Explained on YouTube to learn about Gen 1 cries, and I also used [the web page they made](https://rgmechex.com/tech/gen1cries.html) to work on my cries before implementing them in the ROM.
+
+I must really extend the biggest thanks to them for their stellar work on this, because without it I could never have created the cries like I did.
 
 ## Example use
 
 As an example of what can be done with it, I included an IPS patch of a ROM hack I made based on it.
+
 To be clear, the patch does **not** correspond to the ROM this repo builds (what would be the point?), it's for a ROM hack whose source code is not public but is based on this repo.
+
 It's still the same game structure (still Kanto), but wild pokemon and trainer pokemon now include the new pokemon, and I included a bit of post-game content with additional areas and rematches for Gym Leaders and the E4.
 
 ## How to install
