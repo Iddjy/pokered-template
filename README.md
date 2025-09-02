@@ -3,10 +3,13 @@
 This is a fork of [pret/pokered][pokered].
 
 This repo builds a ROM with an expanded Pokedex and updated game mechanics, but without altering the structure of the game story-wise and without changing enemy trainers or wild pokemon.
+
 It can be used as a template to start from when creating a ROM hack, so that all the work to expand the dex and update the game mechanics is already done.
 
 I pre-included an expanded roster of 402 pokemon which I selected in order to have better type representation and also based on personal preference.
+
 If you wish to alter this roster, you can pretty much do a drop-in replacement of a pokemon by another, the only extra things you'll need are the pokemon's sprites (front and back) and the pokemon's cry.
+
 Sprites can be found on various sites, or you can draw them yourself, but for cries there aren't many resources out there. I had to create them myself for my roster (see [Cries](#Cries)). You could also just use existing base cries and play with the tempo and pitch parameters, but that limits you quite a lot in the cries you can make this way.
 
 ## Changes
