@@ -406,6 +406,7 @@
 |ARCEUS             |SmithyGCN (spriters-resources)                                                                                                |veekun                                   |
 
 I made Seismitoad's front sprite using this picture from agatashi999 as a model: https://www.zerochan.net/3348444
+
 I made a few back sprites using models from various sources listed below:
 
 Gen 2, 3, 4 models:
@@ -420,13 +421,19 @@ https://www.pokecommunity.com/threads/gen-vi-ds-style-64x64-pokemon-sprite-resou
 Gen 7+ models:
 https://www.pokecommunity.com/threads/ds-style-gen-vii-and-beyond-pok%C3%A9mon-sprite-repository-in-64x64.368703/
 
+<p>
 I made a few back sprites myself without any particular model except official arts and/or 3D models. Those are tagged with my username (Iddjy).
 
 Most names correspond to DeviantArt usernames, except for mine (Iddjy), veekun, who has his/her own site, and Frekay Planet for whom I couldn't find any site.
-For the others I added the site between parenthesis after the name.
 
+For the others I added the site between parenthesis after the name.
+</p>
+
+<p>
 In some cases, I could never trace the source of the image I used, so I just put the link. If you have any info on the sources for these, please let me know.
+
 In Turtwig's front sprite's case, I couldn't even remember where I got it, and I can't find it again, so if you have any info on this sprite, please let me know.
+
 As stated on the page linked for Fletchling and Pangoro, there is no info on who did what, so credit for these front sprites goes to one or two among the following:
 - RZC
 - Fex
@@ -442,8 +449,12 @@ As stated on the page linked for Fletchling and Pangoro, there is no info on who
 - Fenne-king
 - Scarex and Ony
 - MrDollSteak
+</p>
 
+<p>
 Sprites without any tag are those that were already in the ROM and that I didn't modify.
+
 When a sprite is tagged with pokeyellow, pokegreen etc. it means I replaced the original sprite by the one from the corresponding game.
+</p>
 
 If you see something wrong, please let me know. If you want me to remove something that belongs to you, just ask.
