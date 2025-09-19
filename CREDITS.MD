@@ -168,7 +168,7 @@
 |TOGETIC           	|https://www.reddit.com/r/pokemon/comments/v9cep/pokemon_herp_and_derp_version_sprites                                         |veekun                                   |
 |TOGEKISS          	|nuukiie                                                                                                                       |veekun                                   |
 |NATU              	|Axel-Comics                                                                                                                   |veekun                                   |
-|XATU              	|jpKEKS                                                                                                                        |SkidMarc25                               |
+|XATU              	|SkidMarc25                                                                                                                    |SkidMarc25                               |
 |MAREEP            	|Lily-Cutesmith (https://terrorbuns.itch.io/)                                                                                  |veekun                                   |
 |FLAAFFY           	|SkidMarc25                                                                                                                    |veekun                                   |
 |AMPHAROS          	|SkidMarc25                                                                                                                    |SkidMarc25                               |
