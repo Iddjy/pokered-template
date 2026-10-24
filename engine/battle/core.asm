@@ -1399,6 +1399,7 @@ RemoveFaintedPlayerMon:
 	ld [hli], a
 	ld [hl], a
 	ld [wBattleMonStatus], a
+	ld [wPlayerBattleStatus1], a
 	call CopyPlayerMonCurHPAndStatusFromBattleToParty
 	coord hl, 9, 7
 	lb bc, 5, 11
