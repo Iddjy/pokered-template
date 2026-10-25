@@ -1011,6 +1011,7 @@ CheckStatDownBlocked:
 
 ; this takes into account the number of turns elapsed without a change of pokemon on either side
 ; sets carry flag if the number of turns elapsed is >= 3
+; it is useful to avoid an infinite loop of eg. Swords Dance > Charm > Swords Dance > Charm until PPs are depleted on one side
 CheckElapsedTurns:
 	ld a, [wAILayer2Encouragement]
 	cp 3
